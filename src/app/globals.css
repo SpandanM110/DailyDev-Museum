@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cream text-ink antialiased transition-colors duration-300;
+  }
+  .dark body {
+    @apply bg-dark-bg text-cream;
+  }
+}

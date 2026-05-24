@@ -1,0 +1,2892 @@
+[
+  {
+    "id": "NaE6Ypy7x",
+    "slug": "essential-reactjs-practices-for-optimized-development",
+    "title": "Essential React.js Practices for Optimized Development",
+    "url": "https://www.freecodecamp.org/news/react-best-practices-ever-developer-should-know/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/040cdcf87e243d916a4718f2d4306a01?_a=AQAEuiZ",
+    "summary": "This guide offers crucial tips on optimizing React development using hooks. It covers the importance of maintaining immutability in state management, avoiding the overuse of useState, leveraging useMemo for performance improvements, ensuring unique keys for list items, and properly handling dependencies in useEffect. The guide also advises on alternatives to useEffect for managing side effects efficiently, contributing to cleaner and more efficient code.",
+    "publishedAt": "2024-10-03T16:51:27.436Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "webdev",
+      "javascript",
+      "react",
+      "react-hooks"
+    ],
+    "readTime": 7,
+    "numUpvotes": 1351,
+    "numComments": 54,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/react-best-practices-ever-developer-should-know-nae6ypy7x",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "React's ecosystem rewards discipline. This piece maps the terrain between 'it works' and 'it works well.'"
+  },
+  {
+    "id": "FqakzsWDx",
+    "slug": "top-tips-and-tricks-with-tailwind-css",
+    "title": "Top Tips and Tricks with Tailwind CSS",
+    "url": "https://faun.pub/top-tips-and-tricks-with-tailwind-css-19a566c2b225",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/61e7d2d8ea0c819e862d2bb301357e4d?_a=AQAEuiZ",
+    "summary": "Learn top tips and tricks to enhance your Tailwind CSS projects, including how to properly delegate classes, manage spacing between elements, and avoid overuse of the @apply utility. Discover how to add opacity, transitions, and animations, utilize group hover and pseudo-classes, and customize input values. Check out the provided resources for pre-made components and use the Tailwind IntelliSense plugin for an improved workflow.",
+    "publishedAt": "2024-07-14T15:40:38.126Z",
+    "source": {
+      "id": "faun",
+      "name": "Faun",
+      "handle": "faun",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/71243dc2fd54430491336f7f7d4d83b1"
+    },
+    "tags": [
+      "webdev",
+      "react",
+      "css",
+      "frontend",
+      "tailwind-css"
+    ],
+    "readTime": 3,
+    "numUpvotes": 799,
+    "numComments": 26,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/top-tips-and-tricks-with-tailwind-css-fqakzswdx",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Utility-first CSS, once controversial, now canonical. This piece captures the moment the community chose pragmatism."
+  },
+  {
+    "id": "Kcrzt8eeF",
+    "slug": "javascript-security-simple-practices-to-secure-your-frontend",
+    "title": "JavaScript Security: Simple Practices to Secure Your Frontend",
+    "url": "https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e49d2ace56de71d8679658f90e341f50?_a=AQAEuiZ",
+    "summary": "Learn simple practices to secure your frontend JavaScript code, including keeping dependencies up-to-date, using security headers, and sanitizing user input.",
+    "publishedAt": "2024-05-20T06:42:49.301Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "security",
+      "javascript",
+      "frontend"
+    ],
+    "readTime": 3,
+    "numUpvotes": 766,
+    "numComments": 31,
+    "author": {
+      "name": "Pachi",
+      "image": "https://avatars1.githubusercontent.com/u/44537285?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/javascript-security-simple-practices-to-secure-your-frontend-kcrzt8eef",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "A quiet warning in exhibit form. The vulnerabilities it names remain open in production systems today."
+  },
+  {
+    "id": "WWxc8NNwZ",
+    "slug": "-css-trick-transition-from-height-0-to-auto",
+    "title": "🧙‍♂️ CSS trick: transition from height 0 to auto!",
+    "url": "https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/b17b914dea7fcee47ebf8a613cc44f1b?_a=AQAEufR",
+    "summary": "Learn how to transition from height 0 to auto in CSS using CSS Grid. Avoid fixed heights and use a neat trick with grid-template-rows.",
+    "publishedAt": "2023-11-25T15:47:59.236Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "webdev",
+      "css"
+    ],
+    "readTime": 3,
+    "numUpvotes": 574,
+    "numComments": 26,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/css-trick-transition-from-height-0-to-auto--wwxc8nnwz",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Styling the web remains an act of negotiation — between browsers, breakpoints, and taste. A fine specimen."
+  },
+  {
+    "id": "Ez0EkQd4I",
+    "slug": "how-to-prepare-for-react-interviews-front-end-technical-inte",
+    "title": "How to Prepare for React Interviews – Front-End Technical Interview Guide",
+    "url": "https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/bba104cfc4fc99d01ee3fac5c62a7fd7",
+    "summary": "A polyfill is a custom implementation of native JavaScript functions. The.map() polyfill method takes in a callback that gets executed inside the myMap body. This is nothing but the length of the array through which theMyMap function is called. Since map() returns a new array, we create an empty array and push the results into it. In order to implement debouncing, let's take an example.",
+    "publishedAt": "2022-09-08T00:29:16.000Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "react",
+      "javascript",
+      "storage",
+      "interview",
+      "react-hooks",
+      "interview-questions"
+    ],
+    "readTime": 13,
+    "numUpvotes": 368,
+    "numComments": 40,
+    "author": {
+      "name": "Manu Arora",
+      "image": "https://avatars.githubusercontent.com/u/23276437?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/how-to-prepare-for-react-interviews-front-end-technical-interview-guide-ez0ekqd4i",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "aHMxebuou",
+    "slug": "api-design-101-my-best-practices-for-building-great-apis",
+    "title": "API Design 101: My Best Practices for Building Great APIs",
+    "url": "https://favtutor.com/articles/api-guide-best-practices/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/03ff9177dbd01c7c9b273598a5c7945d?_a=AQAEuiZ",
+    "summary": "API design involves creating rules and specifications for how an API exposes functionality and data to developers and users. It improves user experience and performance. Best practices include following RESTful design, using JSON as the data format, implementing input validation and parameter sanitization, documenting the API, implementing versioning strategies, and testing and monitoring the API.",
+    "publishedAt": "2024-05-31T11:18:02.000Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "webdev",
+      "architecture"
+    ],
+    "readTime": 5,
+    "numUpvotes": 359,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/api-design-101-my-best-practices-for-building-great-apis-ahmxebuou",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "2Z3qJnA8o",
+    "slug": "react-best-practices",
+    "title": "React - Best Practices",
+    "url": "https://dev.to/iambilalriaz/react-best-practices-ege",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1af27654420166257fcf4c6f13fb50ea",
+    "summary": "In JavaScript, you can adopt ES6 syntax to make your code cleaner. Don't Forget key Prop With map in JSX Always assign a unique value to the prop to every JSX element while mapping from an array. Use Ternary Operator instead of if/else if Statements makes your code bulky.",
+    "publishedAt": null,
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "react",
+      "javascript",
+      "angular"
+    ],
+    "readTime": 5,
+    "numUpvotes": 347,
+    "numComments": 30,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/react---best-practices-2z3qjna8o",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "React's ecosystem rewards discipline. This piece maps the terrain between 'it works' and 'it works well.'"
+  },
+  {
+    "id": "TVyCaidq8",
+    "slug": "tailwind-css-tips-and-tricks-worth-knowing",
+    "title": "Tailwind CSS Tips and Tricks Worth Knowing",
+    "url": "https://www.builder.io/blog/tailwind-css-tips-and-tricks",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f035d80fa16ee37aec898b43b0938e26?_a=AQADKdt",
+    "summary": "Tailwind allows us to change the style of an element based on its state with helper classes. There are some times where we are forced to use CSS for our styles. Tailwind has some very useful and easy-to-use animation utility classes. For example, we can add the transition color class and set a duration of 300 milliseconds.",
+    "publishedAt": "2023-07-11T16:00:00.000Z",
+    "source": {
+      "id": "builderio",
+      "name": "builder.io",
+      "handle": "builderio",
+      "image": "https://media.daily.dev/image/upload/s--jap1dv3o--/f_auto/v1721914613/squads/builderio"
+    },
+    "tags": [
+      "css",
+      "tailwind-css"
+    ],
+    "readTime": 1,
+    "numUpvotes": 323,
+    "numComments": 38,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/tailwind-css-tips-and-tricks-worth-knowing-tvycaidq8",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Utility-first CSS, once controversial, now canonical. This piece captures the moment the community chose pragmatism."
+  },
+  {
+    "id": "E1pcGrY51",
+    "slug": "react-design-patterns-and-best-practices-for-2025",
+    "title": "React Design Patterns and Best Practices for 2025",
+    "url": "https://www.telerik.com/blogs/react-design-patterns-best-practices",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/ba9336ea093c25e087488b08409263ea?_a=AQAEulh",
+    "summary": "Comprehensive guide covering modern React development patterns for 2025, including function components, custom hooks, Context API, TypeScript integration, and React 19 features like useOptimistic and Server Components. Explores ecosystem tools like Next.js, Remix, Vite, and Tailwind CSS, plus enterprise UI solutions like KendoReact for building scalable, maintainable applications.",
+    "publishedAt": "2025-06-02T11:30:03.000Z",
+    "source": {
+      "id": "telerik",
+      "name": "Telerik",
+      "handle": "telerik",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/5ee6d4bef8ac4f84886d06f5881963e7"
+    },
+    "tags": [
+      "react",
+      "typescript",
+      "nextjs",
+      "design-patterns",
+      "react-hooks"
+    ],
+    "readTime": 8,
+    "numUpvotes": 316,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/react-design-patterns-and-best-practices-for-2025-e1pcgry51",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "React's ecosystem rewards discipline. This piece maps the terrain between 'it works' and 'it works well.'"
+  },
+  {
+    "id": "hZf1sdIOq",
+    "slug": "essential-web-development-insights-and-ai-tools-overview",
+    "title": "Essential web development insights and AI tools overview",
+    "url": "https://webdeveloper.beehiiv.com/p/2024-09-22",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0726a453127b470e536f6c9faf86ec57?_a=AQAEuiZ",
+    "summary": "This post offers a variety of resources and updates for web developers, including a React cheat sheet, best practices for JWT authentication, an in-depth visualization of SAML, and a collection of CSS loaders. Additionally, it promotes a free AI and ChatGPT masterclass aimed at enhancing workflow efficiency, covering diverse topics from modern CSS properties to tools for graphics and accessibility.",
+    "publishedAt": "2024-09-22T00:00:00.000Z",
+    "source": {
+      "id": "webdevbeehiiv",
+      "name": "Web Developer",
+      "handle": "webdevbeehiiv",
+      "image": "https://media.daily.dev/image/upload/s--3W5klI32--/f_auto/v1723182860/logos/webdevbeehiiv"
+    },
+    "tags": [
+      "react",
+      "css",
+      "typescript",
+      "jwt"
+    ],
+    "readTime": 3,
+    "numUpvotes": 282,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/react-cheat-sheet-jwt-best-practices-saml-visualization-css-loaders--hzf1sdioq",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "X6aSihhCi",
+    "slug": "essential-typescript-for-react",
+    "title": "Essential Typescript for React",
+    "url": "https://www.jacobparis.com/content/react-ts",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/574f3c4bea3a487e7fe618b0f75a0448?_a=AQAEuj9",
+    "summary": "This guide highlights essential TypeScript knowledge for effective product development in React. Key points include using ReturnType and Awaited to manage return types, typing components based on their requirements to avoid tight coupling with database schemas, using ReactNode for typing children, and employing React.ComponentProps for passing props. It also covers using intersections, unions, and Omit to handle props effectively.",
+    "publishedAt": null,
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "webdev",
+      "react",
+      "typescript"
+    ],
+    "readTime": 6,
+    "numUpvotes": 234,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/essential-typescript-for-react-x6asihhci",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Types as documentation, types as guardrails. This exhibit explores the space between freedom and safety."
+  },
+  {
+    "id": "HpFesSJ9M",
+    "slug": "designing-design-systems",
+    "title": "Designing Design Systems",
+    "url": "https://tkdodo.eu/blog/designing-design-systems",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/fcf3077b266611dff665c202ed8d92b9?_a=AQAEulh",
+    "summary": "An experienced frontend engineer shares their perspective on building effective design systems, emphasizing that success requires more than visual design. The post outlines 30+ principles for creating robust design systems, covering API design, type safety, accessibility, composition patterns, performance, and developer experience. Key themes include balancing constraints with flexibility, prioritizing type safety and documentation, building for common use cases rather than edge cases, and treating adoption as a cultural challenge rather than purely technical.",
+    "publishedAt": null,
+    "source": {
+      "id": "tkdodo",
+      "name": "TkDodo",
+      "handle": "tkdodo",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1656338366/logos/tkdodo"
+    },
+    "tags": [
+      "react",
+      "architecture",
+      "typescript",
+      "design-systems"
+    ],
+    "readTime": 4,
+    "numUpvotes": 227,
+    "numComments": 3,
+    "author": {
+      "name": "Dominik D",
+      "image": "https://avatars.githubusercontent.com/u/1021430?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/designing-design-systems-hpfessj9m",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "fGq7H5pjA",
+    "slug": "timepicker",
+    "title": "TimePicker",
+    "url": "https://time.openstatus.dev/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/de5cb0e26fab933aec05d46051cb454e?_a=AQAEuiZ",
+    "summary": "The TimePicker component is a React component built with Shadcn UI that allows for easy time selection. It supports features such as arrow navigation, date value formatting, and mobile keyboard optimization.",
+    "publishedAt": "2024-05-16T01:15:17.699Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "react",
+      "shadcn"
+    ],
+    "readTime": 1,
+    "numUpvotes": 225,
+    "numComments": 15,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/timepicker-fgq7h5pja",
+    "wing": "The Frontend Wing",
+    "wingSlug": "the-frontend-wing",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "Z9fNJF8WY",
+    "slug": "seven-essential-practices-for-robust-api-design",
+    "title": "Seven essential practices for robust API design",
+    "url": "https://newsletter.systemdesign.one/p/best-practices-for-api-design",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1d45b7ebb89afa1d892dcbe9ab978dd0?_a=AQAEulh",
+    "summary": "Seven essential practices for designing robust APIs: REST fundamentals for organizing data resources, proper error handling with clear status codes, API versioning for backward compatibility, rate limiting to prevent abuse, pagination techniques (offset vs cursor) for large datasets, idempotency to avoid duplicate processing, and filtering/sorting for efficient data retrieval. Each practice includes implementation details and trade-offs to consider.",
+    "publishedAt": null,
+    "source": {
+      "id": "systemdesignnews",
+      "name": "System Design Newsletter",
+      "handle": "systemdesignnews",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/eec821422ebe4672a738b8fbfa2c0dbd"
+    },
+    "tags": [
+      "career",
+      "architecture",
+      "backend",
+      "microservices",
+      "rest-api"
+    ],
+    "readTime": 10,
+    "numUpvotes": 673,
+    "numComments": 19,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/7-best-practices-for-api-design--z9fnjf8wy",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "x2EH9CPkK",
+    "slug": "making-a-postgres-query-1000-times-faster",
+    "title": "Making a Postgres query 1,000 times faster",
+    "url": "https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0ed8de85951f44155517e9095a89c798?_a=AQAEuiZ",
+    "summary": "The author shares their journey of optimizing a Postgres query to make it 1,000 times faster. They discovered that the query was taking longer and longer each time it was executed due to processing all rows in the table and the use of a filter instead of an index condition. By using row constructor comparisons, they were able to significantly improve the query performance.",
+    "publishedAt": "2024-05-14T15:00:00.000Z",
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "database",
+      "postgresql",
+      "elk"
+    ],
+    "readTime": 16,
+    "numUpvotes": 382,
+    "numComments": 10,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/making-a-postgres-query-1-000-times-faster-x2eh9cpkk",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "pdPREFHGX",
+    "slug": "system-design-master-template-how-to-answer-any-system-desig",
+    "title": "System Design Master Template: How to Answer Any System Design Interview Question.",
+    "url": "https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5?source=rss----5517fd7b58a6---4",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/d197bcb8aedc9e49a104eb82425aa236",
+    "summary": "System Design Master Template: How to Answer Any System Design Interview Question. The two biggest challenges of answering a system design interview question are: To know where to start. Arslan Ahmad: Have a look at the top image to understand the major components that could be part of any system design.",
+    "publishedAt": "2023-03-20T22:28:06.552Z",
+    "source": {
+      "id": "gc",
+      "name": "gitconnected",
+      "handle": "gc",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/gc"
+    },
+    "tags": [
+      "performance",
+      "database",
+      "backend",
+      "system-design-interview"
+    ],
+    "readTime": 7,
+    "numUpvotes": 229,
+    "numComments": 9,
+    "author": {
+      "name": "Arslan Ahmad",
+      "image": "https://media.daily.dev/image/upload/s--uqaKkLUk--/f_auto,q_auto/v1/avatars/avatar_eaY5cld3PAQk2zpphnPSN"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/system-design-master-template-how-to-answer-any-system-design-interview-question--pdprefhgx",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "5hHpKq4bX",
+    "slug": "how-to-optimize-your-database-optimization-principles-and-be",
+    "title": "How to Optimize Your Database – Optimization Principles and Best Practices",
+    "url": "https://www.freecodecamp.org/news/database-optimization-principles/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1cbea764a242d9f1c631a17ef2284afc?_a=AQAEuiZ",
+    "summary": "Learn about optimizing database operations using the ACID principle and other best practices.",
+    "publishedAt": "2024-05-10T15:21:56.000Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "database"
+    ],
+    "readTime": 5,
+    "numUpvotes": 183,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-to-optimize-your-database-optimization-principles-and-best-practices-5hhpkq4bx",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "Data outlives the applications that create it. This work respects that permanence."
+  },
+  {
+    "id": "4gTPlIVm7",
+    "slug": "key-api-design-considerations",
+    "title": "Key API Design Considerations",
+    "url": "https://newsletter.systemdesigncodex.com/p/key-api-design-considerations",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1761ff3de0858b5cbac1d8de200ffdc8?_a=AQAEuj9",
+    "summary": "A well-designed API is crucial for predictability, consistency, and scalability. Key considerations include defining clear interfaces, choosing the appropriate API paradigm (REST, GraphQL, or gRPC), modeling relationships effectively, implementing versioning strategies, and using rate limiting to manage requests. Treating APIs as products enhances their usability and maintainability.",
+    "publishedAt": null,
+    "source": {
+      "id": "systemdesigncodex",
+      "name": "System Design Codex",
+      "handle": "systemdesigncodex",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/0df89304c19443509ec91a6ccb707853"
+    },
+    "tags": [
+      "career",
+      "architecture",
+      "graphql",
+      "rest-api"
+    ],
+    "readTime": 4,
+    "numUpvotes": 135,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/key-api-design-considerations-4gtplivm7",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "sbfMLLJ3w",
+    "slug": "restful-web-api-design-best-practices",
+    "title": "RESTful web API Design best practices",
+    "url": "https://cloud.google.com/blog/products/api-management/restful-web-api-design-best-practices/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/cddc0e05f6bf9ba57afccfb02698438c",
+    "summary": "A poorly designed API tends to create a similar experience for a consumer developer. Well designed APIs make it easy for consumer developers to find, explore, access, and use them.",
+    "publishedAt": null,
+    "source": {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "handle": "gcp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/gcp"
+    },
+    "tags": [
+      "architecture",
+      "gcp",
+      "graphql"
+    ],
+    "readTime": 2,
+    "numUpvotes": 134,
+    "numComments": 7,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/restful-web-api-design-best-practices-sbfmllj3w",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "C7XIUtlwu",
+    "slug": "api-design-from-basics-to-best-practices",
+    "title": "API Design: From Basics to Best Practices",
+    "url": "https://blog.devgenius.io/api-design-from-basics-to-best-practices-49bbb29cf696",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8f4ae163573a3652a8e5fbb1d30c6483?_a=AQAEuiZ",
+    "summary": "Learn about API design principles, understand different types of APIs, and discover best practices for creating efficient, secure, and easy-to-use interfaces.",
+    "publishedAt": "2024-06-04T18:38:25.874Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "architecture",
+      "graphql",
+      "rest-api",
+      "grpc"
+    ],
+    "readTime": 5,
+    "numUpvotes": 114,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/api-design-from-basics-to-best-practices-c7xiutlwu",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "nsRP0Vl5j",
+    "slug": "nodejs-nodejs-24150-lts",
+    "title": "Node.js — Node.js 24.15.0 (LTS)",
+    "url": "https://nodejs.org/en/blog/release/v24.15.0",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/b435d21748dd307d88bd072838ee38eb?_a=AQAEuop",
+    "summary": "Node.js 24.15.0 'Krypton' LTS has been released with several notable changes: a new --max-heap-size CLI option, require(esm) and module compile cache marked as stable, raw key format support added to KeyObject crypto APIs, a throwIfNoEntry option for fs.stat, HTTP/1 fallback configuration for HTTP/2, setTOS/getTOS added to Socket, SQLite marked as release candidate with a new limits property, C++ support for diagnostics channels, and improvements to the test runner including worker ID exposure and SIGINT handling. The release also includes numerous bug fixes across streams, crypto, HTTP, ESM, and buffer modules, plus dependency updates including npm 11.12.1, SQLite 3.52.0, and updated root certificates.",
+    "publishedAt": null,
+    "source": {
+      "id": "nodejs",
+      "name": "Node.js",
+      "handle": "nodejs",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/nodejs"
+    },
+    "tags": [
+      "javascript",
+      "nodejs",
+      "cryptography",
+      "sqlite"
+    ],
+    "readTime": 22,
+    "numUpvotes": 107,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/node-js-node-js-24-15-0-lts--nsrp0vl5j",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "A worthy addition to the permanent collection, chosen for its contribution to the developer canon."
+  },
+  {
+    "id": "xsCCfS0NF",
+    "slug": "nodejs-nodejs-2600-current",
+    "title": "Node.js — Node.js 26.0.0 (Current)",
+    "url": "https://nodejs.org/en/blog/release/v26.0.0",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/b3273b3b476b5c32c4da8fd0579e73ba?_a=AQAEuop",
+    "summary": "Node.js 26.0.0 has been released as the new 'Current' version, with LTS planned for October. Key highlights include the Temporal API enabled by default (a modern replacement for the legacy Date object), V8 engine updated to 14.6 (adding Map.prototype.getOrInsert() and Iterator.concat()), and Undici updated to 8.0.2. Breaking changes include removal of legacy _stream_* modules, removal of http.Server.prototype.writeHeader(), runtime deprecation of module.register(), and removal of --experimental-transform-types flag. Several crypto API changes are also included, such as unified asymmetric key import and ML-KEM/ML-DSA pkcs8 export format changes.",
+    "publishedAt": null,
+    "source": {
+      "id": "nodejs",
+      "name": "Node.js",
+      "handle": "nodejs",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/nodejs"
+    },
+    "tags": [
+      "javascript",
+      "nodejs",
+      "v8"
+    ],
+    "readTime": 15,
+    "numUpvotes": 98,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/node-js-node-js-26-0-0-current--xsccfs0nf",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "A worthy addition to the permanent collection, chosen for its contribution to the developer canon."
+  },
+  {
+    "id": "yKurnyxGC",
+    "slug": "how-to-use-postgresql-as-a-cache-queue-and-search-engine",
+    "title": "How to Use PostgreSQL as a Cache, Queue, and Search Engine",
+    "url": "https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/65dc6eeea4729ac9927b43351ce27811?_a=AQAEuop",
+    "summary": "A benchmark-driven exploration of using PostgreSQL as a replacement for Redis (caching), RabbitMQ (job queues), Elasticsearch (full-text search), and pub/sub systems. Two identical PostgreSQL 17 instances are compared — one using naive patterns, one using optimized built-in features like UNLOGGED tables, SKIP LOCKED, tsvector with GIN indexes, and LISTEN/NOTIFY. Key findings: tsvector+GIN delivers a 10x p95 improvement over ILIKE searches; SKIP LOCKED is production-ready for job queues; UNLOGGED tables give a consistent 13% write speedup; LISTEN/NOTIFY reduces pub/sub latency by 20% at p95. Under combined workload, the optimized setup adds ~15% overhead but stays under 10ms p95. The conclusion is that a well-configured PostgreSQL instance can replace 3-5 specialized services for most web applications, with clear guidance on where dedicated tools are still warranted.",
+    "publishedAt": "2026-04-21T16:58:55.196Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "database",
+      "postgresql",
+      "full-text-search"
+    ],
+    "readTime": 11,
+    "numUpvotes": 89,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-to-use-postgresql-as-a-cache-queue-and-search-engine-ykurnyxgc",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "Data outlives the applications that create it. This work respects that permanence."
+  },
+  {
+    "id": "yNio7azgp",
+    "slug": "bytebytego-launches-comprehensive-technical-interview-prep-k",
+    "title": "ByteByteGo launches comprehensive technical interview prep kit",
+    "url": "https://blog.bytebytego.com/p/ep170-best-ways-to-test-system-functionality",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/861736e98d15d89e3d910f32f06c8c24?_a=AQAEulh",
+    "summary": "ByteByteGo launches an all-in-one technical interview preparation kit covering system design, coding patterns, object-oriented design, and specialized topics like ML and mobile system design. The newsletter also explains system testing methodologies including unit, integration, and load testing, demonstrates how CQRS separates read and write operations for better scalability, and breaks down MongoDB's architecture with sharding and replica sets for horizontal scaling.",
+    "publishedAt": null,
+    "source": {
+      "id": "bytebytego",
+      "name": "ByteByteGo",
+      "handle": "bytebytego",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/35be29234ee14d01a9cd049c52e12753"
+    },
+    "tags": [
+      "testing",
+      "career",
+      "mongodb"
+    ],
+    "readTime": 5,
+    "numUpvotes": 88,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ep170-all-in-one-technical-interview-prep-kit-ynio7azgp",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "vsRqyCBk9",
+    "slug": "5nf-and-database-design",
+    "title": "5NF and Database Design",
+    "url": "https://kb.databasedesignbook.com/posts/5nf/",
+    "image": "https://media.daily.dev/image/upload/s--OHB84bZF--/f_auto/v1722860399/public/Placeholder%2010",
+    "summary": "A deep dive into Fifth Normal Form (5NF) that argues traditional teaching approaches are unnecessarily confusing. The author critiques the Wikipedia example as poorly motivated and proposes starting from business requirements and a logical model instead. Two natural design patterns emerge: the AB-BC-AC triangle (three M:N junction tables connecting three entities) and the ABC+D star pattern (a central entity linked 1:N to three surrounding entities). Using ice cream preferences and concert musician examples, the post demonstrates that properly designed schemas are automatically normalized without needing to reason about 5NF decomposition explicitly. The post also covers composite vs. synthetic primary keys and how both patterns can coexist in the same schema.",
+    "publishedAt": "2026-04-11T21:00:00.000Z",
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "database",
+      "sql"
+    ],
+    "readTime": 20,
+    "numUpvotes": 87,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/5nf-and-database-design-vsrqycbk9",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "Data outlives the applications that create it. This work respects that permanence."
+  },
+  {
+    "id": "YT9M5iQGq",
+    "slug": "modern-api-development-with-nodejs-express-and-typescript-us",
+    "title": "Modern API Development with Node.js, Express, and TypeScript using Clean Architecture",
+    "url": "https://dev.to/dipakahirav/modern-api-development-with-nodejs-express-and-typescript-using-clean-architecture-1m77",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e6278a9f403cc563d73694c298a6522a?_a=AQAEuiZ",
+    "summary": "This guide covers building a modern API using Node.js, Express, and TypeScript, with a focus on Clean Architecture principles. Topics include setting up the project, structuring it with Clean Architecture, implementing various layers such as domain, use cases, infrastructure, and interface. It also touches on Dependency Injection, error handling, data validation, real database integration with MongoDB, authentication with JWT, logging with Winston, environment configuration, CI/CD, and project documentation with Swagger.",
+    "publishedAt": "2024-08-17T13:33:46.000Z",
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "webdev",
+      "architecture",
+      "nodejs",
+      "typescript",
+      "express"
+    ],
+    "readTime": 12,
+    "numUpvotes": 79,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/modern-api-development-with-node-js-express-and-typescript-using-clean-architecture-yt9m5iqgq",
+    "wing": "The Backend Hall",
+    "wingSlug": "the-backend-hall",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "FK1UIbccV",
+    "slug": "chatgpt-prompts-for-developers",
+    "title": "ChatGPT - Prompts for developers",
+    "url": "https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2c1c458d7400dda3fb6c49d6ef28519e?_a=AQAEuiZ",
+    "summary": "ChatGPT is an AI chatbot that helps developers in various ways such as writing code, refactoring code, code review and debugging, optimizing code, explaining code, creating unit tests, adding code comments, creating boilerplate code, and writing regular expressions.",
+    "publishedAt": "2024-05-18T03:02:43.932Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "ai",
+      "chatgpt",
+      "code-review"
+    ],
+    "readTime": 4,
+    "numUpvotes": 1949,
+    "numComments": 75,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/chatgpt---prompts-for-developers-fk1uibccv",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "uSzaCmBn5",
+    "slug": "why-ai-may-turn-software-engineering-into-a-finite-career",
+    "title": "Why AI may turn software engineering into a finite career",
+    "url": "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/479e95ee2af112c350fa09a341f0c630?_a=AQAEuop",
+    "summary": "A thought-provoking argument that the traditional software engineering career path may be fundamentally changing due to AI. Even if using AI tools causes skill atrophy over time, engineers may still be obligated to use them to remain competitive — just as construction workers must lift heavy objects despite long-term physical wear. The analogy to professional athletes with a finite career window is drawn: software engineers may need to plan for a career with a limited lifespan rather than assuming lifelong skill accumulation.",
+    "publishedAt": null,
+    "source": {
+      "id": "seangoedecke",
+      "name": "sean goedecke",
+      "handle": "seangoedecke",
+      "image": "https://media.daily.dev/image/upload/s--WNgiZyDx--/f_auto,q_auto/v1765713419/logos/seangoedecke"
+    },
+    "tags": [
+      "ai",
+      "career",
+      "ai-coding"
+    ],
+    "readTime": 5,
+    "numUpvotes": 318,
+    "numComments": 85,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/software-engineering-may-no-longer-be-a-lifetime-career-uszacmbn5",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "ubUt2UFfr",
+    "slug": "4-vscode-extensions-i-use-when-developing-with-tailwind",
+    "title": "4 VSCode extensions I use when developing with Tailwind",
+    "url": "https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2b9bed6ebbf68033809328ac22523edd?_a=AQAEufR",
+    "summary": "A post discussing four VSCode extensions that are useful when developing with Tailwind CSS. The extensions include Tailwind CSS IntelliSense, Tailwind Fold, Tailwind Documentation, and Tailwind Config Viewer.",
+    "publishedAt": "2023-04-07T10:41:12.586Z",
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "devtools",
+      "tailwind-css"
+    ],
+    "readTime": 2,
+    "numUpvotes": 155,
+    "numComments": 9,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/4-vscode-extensions-i-use-when-developing-with-tailwind-ubut2uffr",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Utility-first CSS, once controversial, now canonical. This piece captures the moment the community chose pragmatism."
+  },
+  {
+    "id": "rcVvxmpTr",
+    "slug": "making-sense-of-the-ai-developer-tools-ecosystem",
+    "title": "Making Sense of the AI Developer Tools Ecosystem",
+    "url": "https://blog.scottlogic.com/2025/04/01/making-sense-of-the-ai-developer-tools-ecosystem.html",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/80cf521d1ad01ecfb80f12175eacee27?_a=AQAEuj9",
+    "summary": "The AI developer tools landscape has evolved from simple autocomplete tools to a complex ecosystem encompassing intelligent assistants, autonomous agents, AI-powered IDEs, and rapid prototyping platforms. This post categorizes these tools based on their integration into the workflow, from general-purpose chatbots to fully AI-first environments. The capability and breadth of these tools are rapidly increasing, offering significant value in software development. The key categories include tools at an arm’s length, integrated AI within traditional IDEs, AI-first environments, and task-focused tools designed for specific use cases.",
+    "publishedAt": "2025-04-01T00:00:00.000Z",
+    "source": {
+      "id": "scottlogic",
+      "name": "Scott Logic",
+      "handle": "scottlogic",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/65c5cc47d7674fbc83d00599d7b44552"
+    },
+    "tags": [
+      "ai",
+      "devtools",
+      "machine-learning"
+    ],
+    "readTime": 11,
+    "numUpvotes": 141,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/making-sense-of-the-ai-developer-tools-ecosystem-rcvvxmptr",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "HD5ABAl0U",
+    "slug": "capacitor-showcase-localllm",
+    "title": "Capacitor Showcase – LocalLLM",
+    "url": "https://ionic.io/blog/capacitor-showcase-localllm",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/fa06b9013d354b21a1efaa99b60994eb?_a=AQAEuop",
+    "summary": "Capacitor LocalLLM is a new native Capacitor plugin that enables on-device AI inference for iOS and Android apps via a unified TypeScript API. It leverages Apple Intelligence and Gemini Nano to run LLMs locally without sending data to the cloud. The post demonstrates the plugin through Oakline Bank, a fictional fintech demo app featuring OakBot, an AI assistant that answers questions about account balances and spending by injecting serialized transaction data into the model's context window before inference. The post also explains why plain-text context injection is preferred over JSON for small on-device models due to token efficiency and better reasoning performance.",
+    "publishedAt": "2026-05-14T14:56:04.000Z",
+    "source": {
+      "id": "ionic",
+      "name": "Ionic Blog",
+      "handle": "ionic",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/296f30dacd74494d83a863631ac87394"
+    },
+    "tags": [
+      "mobile",
+      "typescript",
+      "local-ai"
+    ],
+    "readTime": 5,
+    "numUpvotes": 135,
+    "numComments": 10,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/capacitor-showcase-localllm-hd5abal0u",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "U-7P2lGAp",
+    "slug": "ai-code-reviewer-ai-reviews-your-code",
+    "title": "AI Code Reviewer - AI reviews your code",
+    "url": "https://www.producthunt.com/posts/ai-code-reviewer",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/7c6db425fc7e7925002263eaeec9cceb",
+    "summary": "AI reviews your code Products Best products. Discover the best products by month. Check out launches that are coming soon.",
+    "publishedAt": null,
+    "source": {
+      "id": "ph",
+      "name": "Product Hunt",
+      "handle": "ph",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/ph"
+    },
+    "tags": [
+      "ai",
+      "code-review",
+      "community",
+      "tech-news",
+      "tools",
+      "web3"
+    ],
+    "readTime": 1,
+    "numUpvotes": 123,
+    "numComments": 18,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ai-code-reviewer---ai-reviews-your-code-u-7p2lgap",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "3MVR9LK18",
+    "slug": "5-free-university-courses-to-learn-machine-learning",
+    "title": "5 Free University Courses to Learn Machine Learning",
+    "url": "https://www.kdnuggets.com/5-free-university-courses-to-learn-machine-learning",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/7c699d5139ea17cfa4cec8c3b94b0348?_a=AQAEuiZ",
+    "summary": "Learn machine learning from top universities with these free courses. Topics covered include linear classifiers, neural networks, decision trees, and more.",
+    "publishedAt": "2024-05-14T12:00:30.000Z",
+    "source": {
+      "id": "kdnuggets",
+      "name": "KDnuggets",
+      "handle": "kdnuggets",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/kdnuggets"
+    },
+    "tags": [
+      "machine-learning",
+      "mit"
+    ],
+    "readTime": 3,
+    "numUpvotes": 80,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/5-free-university-courses-to-learn-machine-learning-3mvr9lk18",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Every expert was once a beginner. This piece honors the courage of starting."
+  },
+  {
+    "id": "p6Ps5TsHn",
+    "slug": "gpt-4o-learn-how-to-implement-a-rag-on-the-new-model-step-by",
+    "title": "GPT-4o: Learn how to Implement a RAG on the new model, step-by-step!",
+    "url": "https://dev.to/vmesel/gpt-4o-learn-how-to-implement-a-rag-on-the-new-model-step-by-step-377d",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/495456a9b77c8f25bc40ff92c64ce240?_a=AQAEuiZ",
+    "summary": "Learn how to implement a RAG on the new GPT-4o model step-by-step, including setting up your OpenAI Account and API Key, using Langchain's approach on talkdai/dialog, and using GPT-4o in your content.",
+    "publishedAt": "2024-05-14T02:48:00.000Z",
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "ai",
+      "chatgpt",
+      "openai",
+      "langchain"
+    ],
+    "readTime": 6,
+    "numUpvotes": 73,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/gpt-4o-learn-how-to-implement-a-rag-on-the-new-model-step-by-step--p6ps5tshn",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "ivGGNIeWh",
+    "slug": "ai-code-reviewer-automate-your-code-reviews",
+    "title": "AI Code Reviewer: Automate Your Code Reviews",
+    "url": "https://itnext.io/ai-code-reviewer-automate-your-code-reviews-137bfaa20e8b",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a98b6f2ebf9e20592cb5238bc57e65fc?_a=AQAEuj9",
+    "summary": "AI Code Reviewer is an open-source Python script from AnyMaint that uses large language models like ChatGPT and Gemini to analyze GitHub pull requests. It offers features such as automated comments, issue detection, and PR summaries. The tool can be run manually or automated through GitHub Actions. It is available under the BSD 3-Clause License and is designed to streamline code reviews for individual and team projects.",
+    "publishedAt": "2025-03-31T22:11:34.438Z",
+    "source": {
+      "id": "itnext",
+      "name": "ITNEXT",
+      "handle": "itnext",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/itnext2"
+    },
+    "tags": [
+      "ai",
+      "machine-learning",
+      "python",
+      "github",
+      "code-review"
+    ],
+    "readTime": 6,
+    "numUpvotes": 59,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ai-code-reviewer-automate-your-code-reviews-ivggniewh",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "SnJ1hxice",
+    "slug": "why-ai-cannot-pay-off-its-trillion-dollar-infrastructure-inv",
+    "title": "Why AI cannot pay off its trillion-dollar infrastructure investment",
+    "url": "https://www.wheresyoured.at/ai-is-too-expensive",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/574adc906abb37956ea31d3307bf03c0?_a=AQAEuop",
+    "summary": "A detailed financial critique arguing that AI is fundamentally uneconomical at every level. Hyperscalers have invested over $800 billion in AI infrastructure with no clear path to recouping costs — Microsoft, Google, Amazon, and Meta would need to generate $100+ billion each in AI revenue within a year just to avoid catastrophic losses. OpenAI and Anthropic burn billions while lacking any credible path to profitability, with gross margins declining and compute costs spiraling. Enterprise customers like Zillow, Stripe, and ServiceNow are burning through annual AI token budgets in months with no measurable ROI. The piece also examines how Anthropic obscures cost telemetry from enterprise customers, making budgeting nearly impossible, and how corporate pressure to 'use AI for everything' is creating technical debt and organizational chaos without measurable productivity gains.",
+    "publishedAt": "2026-05-19T15:48:42.000Z",
+    "source": {
+      "id": "wheresyoured",
+      "name": "Where's Your Ed At",
+      "handle": "wheresyoured",
+      "image": "https://media.daily.dev/image/upload/s--_fiBlTSf--/f_auto/v1737645971/logos/wheresyoured"
+    },
+    "tags": [
+      "ai",
+      "llm",
+      "openai",
+      "anthropic"
+    ],
+    "readTime": 45,
+    "numUpvotes": 55,
+    "numComments": 18,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ai-is-too-expensive-snj1hxice",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "8FHpaRy0S",
+    "slug": "elmo",
+    "title": "Elmo",
+    "url": "https://www.elmo.chat/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/fe2d44e4a2e4f9d13c58abf35df7db96?_a=AQAEuiZ",
+    "summary": "Elmo is an AI chrome extension developed by Lepton AI that offers features such as summaries, highlights, deep keyword analysis, chat capabilities with PDFs and YouTube.",
+    "publishedAt": "2024-05-18T22:52:49.305Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "ai",
+      "devtools"
+    ],
+    "readTime": 1,
+    "numUpvotes": 37,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/elmo-8fhpary0s",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "A worthy addition to the permanent collection, chosen for its contribution to the developer canon."
+  },
+  {
+    "id": "nSmlLGJoe",
+    "slug": "ai-kubernetes",
+    "title": "AI & Kubernetes",
+    "url": "https://dev.to/googlecloud/ai-kubernetes-1957",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/951a97b6c81317e9d9839a20b5898a17?_a=AQAEuiZ",
+    "summary": "Learn about the types of AI workloads on Kubernetes, including training workloads and inference workloads. Find out why Kubernetes is a suitable platform for AI training workloads and how it can manage the resource needs of inference workloads. Discover the importance of context in customizing AI models and the techniques for fine-tuning and prompt engineering.",
+    "publishedAt": "2024-05-20T07:05:13.982Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "ai",
+      "kubernetes"
+    ],
+    "readTime": 6,
+    "numUpvotes": 34,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ai-kubernetes-nsmllgjoe",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "WP98vZqIF",
+    "slug": "kypso-code-reviewer-eliminate-code-review-bottlenecks",
+    "title": "Kypso Code Reviewer - Eliminate code review bottlenecks",
+    "url": "https://www.producthunt.com/posts/kypso-code-reviewer",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/b1b0bf18c763dfebcaaca37a5fa66b1b?_a=AQAEuiZ",
+    "summary": "Kypso Code Reviewer is a productivity tool aimed at developers, utilizing artificial intelligence to streamline code review processes. It was featured on August 26th, 2024, and has received a 5/5 rating from 5 users since its initial launch on August 21st, 2023.",
+    "publishedAt": "2024-08-25T16:12:08.000Z",
+    "source": {
+      "id": "ph",
+      "name": "Product Hunt",
+      "handle": "ph",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/ph"
+    },
+    "tags": [
+      "ai",
+      "code-review",
+      "devtools",
+      "productivity"
+    ],
+    "readTime": 1,
+    "numUpvotes": 28,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/kypso-code-reviewer---eliminate-code-review-bottlenecks-wp98vzqif",
+    "wing": "The AI/ML Pavilion",
+    "wingSlug": "the-ai-ml-pavilion",
+    "curatorNote": "A worthy addition to the permanent collection, chosen for its contribution to the developer canon."
+  },
+  {
+    "id": "jgnQPnBQP",
+    "slug": "how-i-finally-understood-docker-and-kubernetes",
+    "title": "How I Finally Understood Docker and Kubernetes",
+    "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/b14820eba99de29f21a323054ae56018?_a=AQAEulh",
+    "summary": "A developer shares their journey from confusion to understanding Docker and Kubernetes by focusing on practical problems rather than technical jargon. Docker is explained as a way to package applications with their dependencies into portable containers, while Kubernetes is presented as a system for managing multiple containers in coordination. The author emphasizes learning through hands-on experience with simple projects, starting with single containers and gradually building up to multi-container systems with deployments and services.",
+    "publishedAt": "2025-06-02T15:47:49.934Z",
+    "source": {
+      "id": "javarevisited",
+      "name": "Javarevisited",
+      "handle": "javarevisited",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/9ca6532654d146408235d53f0823a26d"
+    },
+    "tags": [
+      "devops",
+      "kubernetes",
+      "docker",
+      "containers",
+      "orchestration"
+    ],
+    "readTime": 5,
+    "numUpvotes": 684,
+    "numComments": 21,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-i-finally-understood-docker-and-kubernetes-jgnqpnbqp",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "5NJnGk5g4",
+    "slug": "docker-vs-podman-a-new-era-in-secure-orchestration",
+    "title": "Docker vs Podman: A New Era in Secure Orchestration",
+    "url": "https://levelup.gitconnected.com/docker-vs-podman-a-new-era-in-secure-orchestration-957ea2123098",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2854e725e238a1571ea61cc435b80c0f?_a=AQAEuiZ",
+    "summary": "Explore the differences between Docker and Podman in terms of secure orchestration and enhanced security.",
+    "publishedAt": "2023-12-19T20:01:52.714Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "security",
+      "linux",
+      "docker",
+      "containers",
+      "vulnerability",
+      "mac",
+      "orchestration"
+    ],
+    "readTime": 6,
+    "numUpvotes": 275,
+    "numComments": 6,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/docker-vs-podman-a-new-era-in-secure-orchestration-5njngk5g4",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "8ipbflEAe",
+    "slug": "8-advanced-linux-command-line-tools",
+    "title": "8 Advanced Linux Command Line Tools",
+    "url": "https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/499181ec99a80b9afca1f725569769de?_a=AQAEuiZ",
+    "summary": "The post explores eight advanced command line tools from the moreutils package, which extend the capabilities of standard Linux coreutils. These tools include 'combine' for merging files with Boolean operations, 'ifne' for conditional command execution, 'parallel' for running multiple jobs simultaneously, 'pee' for sending input to multiple commands, 'sponge' for safe in-place file edits, 'ts' for adding timestamps to input lines, 'vidir' for batch renaming files with a text editor, and 'vipe' for editing pipeline content interactively. Each tool is explained with practical examples to enhance efficiency and productivity on the command line.",
+    "publishedAt": "2024-08-18T11:16:40.697Z",
+    "source": {
+      "id": "itnext",
+      "name": "ITNEXT",
+      "handle": "itnext",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/itnext2"
+    },
+    "tags": [
+      "cli",
+      "linux",
+      "productivity",
+      "sysadmin"
+    ],
+    "readTime": 11,
+    "numUpvotes": 165,
+    "numComments": 4,
+    "author": {
+      "name": "Decoder",
+      "image": "https://avatars0.githubusercontent.com/u/8086638?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/8-advanced-linux-command-line-tools-8ipbfleae",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "The terminal endures because text never goes out of fashion. A tribute to the command line's quiet power."
+  },
+  {
+    "id": "jKAnzPogi",
+    "slug": "10-simple-linux-tips-which-save-50-of-my-time-in-the-command",
+    "title": "10 simple Linux tips which save 50% of my time in the command line",
+    "url": "https://dev.to/javinpaul/10-simple-linux-tips-which-save-50-of-my-time-in-the-command-line-4moo",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/bb60eeba7fd3b166b1552e3ae03d7f9b?_a=AQAEuiZ",
+    "summary": "Discover 10 simple Linux tips to save time in the command line and work efficiently in UNIX. Learn how to execute previous commands quickly, repeat the last command, use history to find frequently used commands, apply regular expressions in grep and find, use aliases, and more.",
+    "publishedAt": "2024-05-08T11:11:03.251Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "linux",
+      "productivity",
+      "shell",
+      "bash",
+      "unix"
+    ],
+    "readTime": 8,
+    "numUpvotes": 164,
+    "numComments": 6,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/10-simple-linux-tips-which-save-50-of-my-time-in-the-command-line-jkanzpogi",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "The terminal endures because text never goes out of fashion. A tribute to the command line's quiet power."
+  },
+  {
+    "id": "dYi5dwXwH",
+    "slug": "why-developers-should-learn-docker-and-kubernetes-in-2024",
+    "title": "Why Developers Should Learn Docker and Kubernetes in 2024",
+    "url": "https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8af6e41b3613b7736d294561923bd96d?_a=AQAEufR",
+    "summary": "Developers should consider learning Docker and Kubernetes in 2024 due to their importance in the era of Microservices and Cloud Computing. Docker provides containerization, while Kubernetes offers orchestration and management of containers. Learning these tools can enhance a developer's knowledge and career prospects in the evolving tech industry.",
+    "publishedAt": "2023-02-11T09:07:54.232Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "cloud",
+      "devops",
+      "kubernetes",
+      "docker",
+      "containers"
+    ],
+    "readTime": 7,
+    "numUpvotes": 151,
+    "numComments": 14,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/why-developers-should-learn-docker-and-kubernetes-in-2024-dyi5dwxwh",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "rsWUyRUVH",
+    "slug": "six-agent-skills-that-give-ai-coding-agents-real-kubernetes",
+    "title": "Six agent skills that give AI coding agents real Kubernetes cluster context via mirrord",
+    "url": "https://metalbear.com/blog/claude-code-skills-for-kubernetes",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/cd6b9caff1fdaa061ddc2cece5f91d80?_a=AQAEuop",
+    "summary": "MetalBear has released six Agent Skills for AI coding agents (Claude Code, Cursor, and others) that teach them how to use mirrord — a tool that runs local processes as if they were real pods inside a Kubernetes cluster. The six skills cover: quickstart setup, config generation, operator installation for teams, CI integration testing, per-developer database branching, and Kafka queue splitting. The goal is to close the feedback loop for AI agents by giving them access to real cluster state (env vars, DNS, network, databases, queues) rather than having them guess from logs. The entire bundle installs with a single command.",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "source": {
+      "id": "metalbear",
+      "name": "MetalBear",
+      "handle": "metalbear",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/3165f5f876b147e2a160f4bf0fcaa13a"
+    },
+    "tags": [
+      "testing",
+      "kubernetes",
+      "ai-agents",
+      "claude-code"
+    ],
+    "readTime": 5,
+    "numUpvotes": 112,
+    "numComments": 7,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-rswuyruvh",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "2Mqvum6fA",
+    "slug": "learn-docker-and-kubernetes-free-hands-on-course",
+    "title": "Learn Docker and Kubernetes – Free Hands-On Course",
+    "url": "https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/6c6df65c87519de74331de09ca3d677d",
+    "summary": "Guy Barrette teaches this Docker Containers and Kubernetes Fundamentals course for beginners. Guy is a developer & trainer with more than 25 years of experience. He is a Microsoft MVP, frequent conference speaker, and was leader of the Montreal.NET User Group for more than 23 years.",
+    "publishedAt": "2022-10-12T14:22:50.000Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "cicd",
+      "cloud",
+      "cloud-native",
+      "containers",
+      "course",
+      "docker",
+      "kubernetes",
+      "microservices",
+      "vscode"
+    ],
+    "readTime": 3,
+    "numUpvotes": 110,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/learn-docker-and-kubernetes-free-hands-on-course-2mqvum6fa",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Containerization transformed deployment from ritual to routine. Here is the map that guided many through that transition."
+  },
+  {
+    "id": "EG8g6OivQ",
+    "slug": "securing-cicd-for-an-open-source-project-lessons-from-cilium",
+    "title": "Securing CI/CD for an open source project: lessons from Cilium",
+    "url": "https://cilium.io/blog/2026/05/06/securing-cicd-open-source-lessons-from-cilium",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/4d18084e60766514be22d219e9a9632c?_a=AQAEuop",
+    "summary": "Cilium's security team details how they harden their CI/CD pipeline against supply chain attacks. Key controls include: SHA-pinned GitHub Actions and container images, a custom bot (Ariane) restricting who can trigger builds, two-phase checkouts for pull_request_target workflows to isolate untrusted code, Go module vendoring so dependency changes appear as reviewable diffs, CODEOWNERS gates on all .github/ changes, Renovate with a 5-day cooldown for automated dependency updates, static analysis via actionlint and CodeQL to catch expression injection and missing permissions, CI vs. production credential isolation using protected environments, and keyless Sigstore Cosign signing with SBOM attestations. The post also honestly documents remaining gaps: no SLSA provenance, no govulncheck in CI, 68 internal @main references, and no dependency-review-action. It closes with a look at GitHub's 2026 Actions security roadmap and how planned features like dependency locking, scoped secrets, and native egress firewalls map to current workarounds.",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "source": {
+      "id": "cilium",
+      "name": "cilium",
+      "handle": "cilium",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/95777db1b3254a14a54686a789654d5a"
+    },
+    "tags": [
+      "security",
+      "cicd",
+      "github-actions",
+      "cilium"
+    ],
+    "readTime": 23,
+    "numUpvotes": 79,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/securing-ci-cd-for-an-open-source-project-lessons-from-cilium-eg8g6oivq",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "Open source is both gift economy and infrastructure. This exhibit sits at that intersection."
+  },
+  {
+    "id": "IpcKxOyET",
+    "slug": "what-claude-mythos-showed-cloudflare",
+    "title": "What Claude Mythos showed Cloudflare",
+    "url": "https://bytes.dev/archives/489",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0a0b0dec0f6d9f55e6accdb593cc6954?_a=AQAEuop",
+    "summary": "Cloudflare's CSO published findings from Project Glasswing, Anthropic's initiative giving select companies access to Claude Mythos for defensive security research. Key capabilities demonstrated include exploit chain construction (chaining primitives like use-after-free bugs into full system takeovers), proof generation (writing and running code to verify exploitability), and adversarial review (running two agents in deliberate disagreement to improve accuracy). The newsletter also covers npm package compromises, Julia Evans moving away from Tailwind, Andrej Karpathy joining Anthropic, and a JavaScript destructuring trick for grabbing first and last array elements.",
+    "publishedAt": null,
+    "source": {
+      "id": "bytesdev",
+      "name": "Bytes by ui.dev",
+      "handle": "bytesdev",
+      "image": "https://media.daily.dev/image/upload/s--wMrI6PMo--/f_auto/v1718347131/logos/bytesdev"
+    },
+    "tags": [
+      "cyber",
+      "javascript",
+      "ai-agents",
+      "cloudflare",
+      "claude"
+    ],
+    "readTime": 5,
+    "numUpvotes": 69,
+    "numComments": 14,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/what-claude-mythos-showed-cloudflare-ipckxoyet",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "The cloud abstracted away the datacenter. This exhibit preserves the knowledge of what runs beneath."
+  },
+  {
+    "id": "F3dwW7rtw",
+    "slug": "enterprise-live-migrations-is-now-in-public-preview",
+    "title": "Enterprise Live Migrations is now in public preview",
+    "url": "https://github.blog/changelog/2026-05-07-enterprise-live-migrations-is-now-in-public-preview",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/7e8577c6287118db52aacbd83e810ab9?_a=AQAEuop",
+    "summary": "GitHub has launched Enterprise Live Migrations (ELM) in public preview, offering a new way to migrate repositories from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with data residency. Unlike traditional migrations requiring code freezes, ELM continuously syncs data so developers can keep working throughout the process, with cutover taking minutes rather than days. It is purpose-built for large monorepos with deep git history and high activity. ELM runs as a CLI-driven service on the GHES appliance and is available in GHES versions 3.17.14+, 3.18.8+, 3.19.5+, and 3.20.2+. It complements the existing GitHub Enterprise Importer (GEI) tool and can be run concurrently with it.",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "source": {
+      "id": "github_updates",
+      "name": "GitHub Changelog",
+      "handle": "github_updates",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/15004b7835da4d89b02b115871f0f6dc"
+    },
+    "tags": [
+      "devops",
+      "github",
+      "git"
+    ],
+    "readTime": 2,
+    "numUpvotes": 65,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/enterprise-live-migrations-is-now-in-public-preview-f3dww7rtw",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "DevOps dissolved the wall between building and running. This artifact comes from that dissolution."
+  },
+  {
+    "id": "hJac7twbS",
+    "slug": "sprkl-more-than-a-vscode-extension",
+    "title": "Sprkl — more than a VScode extension",
+    "url": "https://itnext.io/sprkl-more-than-a-vscode-extension-5ee4411fe204?source=rss----5b301f10ddcd---4",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/076323f5a812af499a0720af3d578502",
+    "summary": "Sprkl - more than a VScode extension Sprkl — has become more cool and powerful with its new features that we’re gonna discuss here. It’s a tool that gives us a personal and global view of our code coverage, code interactions and how they affect the rest of the application, and security warnings.",
+    "publishedAt": "2023-01-09T18:19:01.547Z",
+    "source": {
+      "id": "itnext",
+      "name": "ITNEXT",
+      "handle": "itnext",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/itnext2"
+    },
+    "tags": [
+      "github",
+      "github-actions",
+      "grafana"
+    ],
+    "readTime": 3,
+    "numUpvotes": 54,
+    "numComments": 0,
+    "author": {
+      "name": "Albion Bame",
+      "image": "https://lh3.googleusercontent.com/a-/ACNPEu8L9jauVeaJ3qqO7izRLjlK1ktjUwnyuHH6MRzQPlw=s100"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/sprkl-more-than-a-vscode-extension-hjac7twbs",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "A developer's editor is their workshop. This piece curates the tools within the tool."
+  },
+  {
+    "id": "BYUCkUzFN",
+    "slug": "ep189-how-to-design-good-apis",
+    "title": "EP189: How to Design Good APIs",
+    "url": "https://blog.bytebytego.com/p/ep189-how-to-design-good-apis",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2016bc4caffbb7813e1afd74b19a609f?_a=AQAEulh",
+    "summary": "Covers fundamental principles of API design including idempotency, versioning, resource naming, security, and pagination. Explores big data pipeline architectures across AWS, Azure, and GCP. Provides a structured learning path for AWS services from fundamentals through certifications. Explains RAG application architecture on AWS and compares virtualization approaches from bare metal to containers on VMs.",
+    "publishedAt": null,
+    "source": {
+      "id": "bytebytego",
+      "name": "ByteByteGo",
+      "handle": "bytebytego",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/35be29234ee14d01a9cd049c52e12753"
+    },
+    "tags": [
+      "cloud",
+      "aws",
+      "career",
+      "architecture",
+      "rest-api"
+    ],
+    "readTime": 8,
+    "numUpvotes": 53,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ep189-how-to-design-good-apis-byuckuzfn",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "a5RZGotOC",
+    "slug": "the-anatomy-of-slow-code-reviews",
+    "title": "The Anatomy of Slow Code Reviews",
+    "url": "https://thenewstack.io/the-anatomy-of-slow-code-reviews/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1abfccea2da6f7588f0c4aa959828b12?_a=AQAEuiZ",
+    "summary": "Slow code reviews are a common complaint among software developers due to various social and cultural factors. Identifying bottlenecks and optimizing the process through well-defined review guidelines, ownership, and iterative feedback can enhance code review times. Implementing review and revision SLOs, prioritizing code reviews, and using tools can further streamline the process and improve developer satisfaction. Encouraging manageable changes and recognizing the importance of cross-team reviews are also key strategies for improvement.",
+    "publishedAt": "2024-07-08T17:00:37.000Z",
+    "source": {
+      "id": "newstack",
+      "name": "The New Stack",
+      "handle": "newstack",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/newstack"
+    },
+    "tags": [
+      "company-culture",
+      "devops",
+      "general-programming"
+    ],
+    "readTime": 9,
+    "numUpvotes": 41,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-anatomy-of-slow-code-reviews-a5rzgotoc",
+    "wing": "The DevOps Annex",
+    "wingSlug": "the-devops-annex",
+    "curatorNote": "DevOps dissolved the wall between building and running. This artifact comes from that dissolution."
+  },
+  {
+    "id": "yKd6Wl6dT",
+    "slug": "im-going-back-to-writing-code-by-hand",
+    "title": "Im going back to writing code by hand",
+    "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/80b9b7812a2af53c3a35a45c95253596?_a=AQAEuop",
+    "summary": "A developer spent 7 months vibe-coding a GPU-aware Kubernetes TUI (k10s) with Claude, then archived it after the codebase collapsed under its own weight. The post dissects five concrete failure patterns that emerge from AI-assisted coding without architectural guardrails: AI builds features not architecture (leading to god objects), the god object as default AI artifact, velocity illusion causing scope creep, positional data as a time bomb, and AI mishandling state transitions causing data races. Each tenet includes real code examples from the failed codebase and specific CLAUDE.md/AGENTS.md directives to prevent the same mistakes. The author is rewriting from scratch in Rust, doing architecture design by hand before any AI-generated code.",
+    "publishedAt": null,
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "kubernetes",
+      "architecture",
+      "golang",
+      "rust",
+      "vibe-coding"
+    ],
+    "readTime": 17,
+    "numUpvotes": 401,
+    "numComments": 38,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/im-going-back-to-writing-code-by-hand-ykd6wl6dt",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "yMBSlGoI3",
+    "slug": "top-10-courses-for-software-engineers-in-2025",
+    "title": "Top 10 courses for software engineers in 2025",
+    "url": "https://medium.com/javarevisited/top-10-educative-courses-for-software-engineers-in-2025-f70bba3e0f45",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f66e8d2873e5187d0cb3bc28c4374b5e?_a=AQAEuj9",
+    "summary": "The post recommends the top 10 interactive courses for software engineers in 2025 provided by Educative.io. These courses cover essential topics such as Generative AI, Data Science, System Design, Cloud Computing, and more. They offer a hands-on learning experience with a focus on text-based content, making them ideal for developers seeking to enhance their skills and remain competitive in the tech industry.",
+    "publishedAt": "2025-03-23T15:32:56.355Z",
+    "source": {
+      "id": "javarevisited",
+      "name": "Javarevisited",
+      "handle": "javarevisited",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/9ca6532654d146408235d53f0823a26d"
+    },
+    "tags": [
+      "machine-learning",
+      "cloud",
+      "python",
+      "career"
+    ],
+    "readTime": 8,
+    "numUpvotes": 362,
+    "numComments": 10,
+    "author": {
+      "name": "Javin",
+      "image": "https://media.daily.dev/image/upload/s--ilFonw0M--/f_auto/v1734009982/avatars/avatar_kKpXTznbahC5oH8M0gx0B"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/top-10-educative-courses-for-software-engineers-in-2025-ymbslgoi3",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "yv28WNY54",
+    "slug": "best-practices-for-reviewing-code",
+    "title": "Best Practices For Reviewing Code",
+    "url": "https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/595dc76d40c18a8804dc96344dea4c22?_a=AQAEufR",
+    "summary": "Discover the best practices for reviewing code to ensure high software quality. Learn about setting goals and standards, communicating expectations, defining a code review process, using a code review checklist, and fostering a positive code review culture.",
+    "publishedAt": "2019-07-24T13:04:16.000Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "code-review"
+    ],
+    "readTime": 7,
+    "numUpvotes": 283,
+    "numComments": 8,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/best-practices-for-reviewing-code-yv28wny54",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "hAKr-ECPZ",
+    "slug": "advanced-javascript-design-patterns",
+    "title": "Advanced Javascript Design Patterns",
+    "url": "https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/49e215c7324abae32fac50c11554876d",
+    "summary": "Design Patterns are the solutions to commonly occurring problems in software design. These patterns are easily re-usable and are expressive. We will be discussing all these design patterns using Javascript es6 classes. I have covered here 20+ design patterns explanations in javascript. If you wish to learnAdvanced react component patterns, please find it here.",
+    "publishedAt": null,
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "general-programming",
+      "javascript"
+    ],
+    "readTime": 9,
+    "numUpvotes": 237,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/advanced-javascript-design-patterns-hakr-ecpz",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Patterns are the shared vocabulary of software craft. This exhibit reminds us that most problems have been solved before."
+  },
+  {
+    "id": "BkPyiP655",
+    "slug": "i-coded-something-dumb-and-im-proud-of-it",
+    "title": "I Coded Something Dumb And I'm Proud of It",
+    "url": "https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8bf1bed51bf4e6fc1071b1912c7cb47c?_a=AQAEuiZ",
+    "summary": "The post discusses the development of an open-source game, the addition of a power-up, and the implementation of a sorting algorithm in a stateless manner.",
+    "publishedAt": "2024-05-15T18:42:14.292Z",
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "python",
+      "game-development"
+    ],
+    "readTime": 4,
+    "numUpvotes": 214,
+    "numComments": 9,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/i-coded-something-dumb-and-i-m-proud-of-it-bkpyip655",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Selected for the permanent collection on the basis of craft, clarity, and community recognition."
+  },
+  {
+    "id": "c7jgBPgy2",
+    "slug": "gibboktypescript-book-the-concise-typescript-book-a-concise",
+    "title": "gibbok/typescript-book: The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+    "url": "https://github.com/gibbok/typescript-book",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/228ab412c1cb08bcef3458c9da099666?_a=AQADKdt",
+    "summary": "The Concise TypeScript Book provides a comprehensive and succinct overview of TypeScript's capabilities. It offers clear explanations covering all aspects found in the latest version of the language. Author Simone Poggiali is an experienced Senior Front-end Developer with a passion for writing professional-grade code.",
+    "publishedAt": "2023-07-04T08:51:56.636Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "javascript",
+      "github",
+      "c",
+      "typescript"
+    ],
+    "readTime": 57,
+    "numUpvotes": 178,
+    "numComments": 6,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/gibbok-typescript-book-the-concise-typescript-book-a-concise-guide-to-effective-development-in-typ-c7jgbpgy2",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Types as documentation, types as guardrails. This exhibit explores the space between freedom and safety."
+  },
+  {
+    "id": "cQshoSFCd",
+    "slug": "ratty-is-a-gpu-rendered-terminal-emulator-with-3d-graphics-p",
+    "title": "Ratty is a GPU-rendered terminal emulator with 3D graphics powered by Bevy",
+    "url": "https://feed.itsfoss.com/link/24361/17341202/ratty-terminal",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/824e60a548c18ff94a42a09374fc59d7?_a=AQAEuop",
+    "summary": "Ratty is an experimental GPU-rendered terminal emulator written in Rust that integrates the Bevy game engine to enable 3D graphics inside the terminal. Key features include a customizable 3D rat cursor, a 3D mode that lets you view terminal output from different angles, a Mobius strip mode, inline 3D object anchoring via a custom Ratty Graphics Protocol, Kitty Graphics Protocol support for images, a live 2D-to-3D split-pane drawing demo, and an interactive document mode inspired by TempleOS. Installation is available via Cargo, pacman on Arch Linux, or prebuilt binaries. A GPU is required to run it. The project is explicitly experimental and resource-heavy, not intended as a daily driver.",
+    "publishedAt": "2026-05-14T13:27:35.000Z",
+    "source": {
+      "id": "itsfoss",
+      "name": "It's Foss",
+      "handle": "itsfoss",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/582e3faed71842bfb9d3840a787d6700"
+    },
+    "tags": [
+      "rust"
+    ],
+    "readTime": 6,
+    "numUpvotes": 175,
+    "numComments": 19,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/this-new-terminal-is-absurd-but-totally-fun--cqshosfcd",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "The terminal endures because text never goes out of fashion. A tribute to the command line's quiet power."
+  },
+  {
+    "id": "WMkJ57Znr",
+    "slug": "understanding-javascript-promises",
+    "title": "Understanding JavaScript Promises",
+    "url": "https://www.digitalocean.com/community/tutorials/understanding-javascript-promises",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f8c621694aef2795410a288946f911e1?_a=AQAEuiZ",
+    "summary": "This post explains the concept of JavaScript Promises and how to use them. It covers the three states of a Promise and demonstrates how to chain Promises. It also compares Promises to other asynchronous techniques like callbacks and Observables.",
+    "publishedAt": "2024-05-17T07:28:20.595Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "javascript"
+    ],
+    "readTime": 8,
+    "numUpvotes": 162,
+    "numComments": 7,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/understanding-javascript-promises-wmkj57znr",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "JavaScript's evolution from scripting curiosity to platform substrate remains one of computing's great surprises."
+  },
+  {
+    "id": "xPoaSaSUG",
+    "slug": "tools-to-improve-golang-development-efficiency",
+    "title": "Tools to improve Golang development efficiency",
+    "url": "https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-3iai",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/4172e0797ef903ec4278f7e2051d0719?_a=AQAEuj9",
+    "summary": "Improve your Golang development efficiency with these five essential tools: ServBay for local development environment setup, golangci-lint for code quality checks, Go Modules for dependency management, Gotests for automating test creation, and pprof for performance optimization. These tools can streamline your workflow, reduce setup time, and enhance code quality.",
+    "publishedAt": null,
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "webdev",
+      "devops",
+      "golang"
+    ],
+    "readTime": 3,
+    "numUpvotes": 157,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/boost-your-golang-development-efficiency-with-these-tools-xpoasasug",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Go's deliberate simplicity is itself a design statement. Exhibited here as evidence of that philosophy in practice."
+  },
+  {
+    "id": "HuAqrOkc8",
+    "slug": "polymorphism-in-javascript",
+    "title": "Polymorphism in Javascript",
+    "url": "https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f443dc66b95a12c2541dae3c038cf7a4?_a=AQAEufR",
+    "summary": "Polymorphism is a fundamental concept in object-oriented programming (OOP) languages, allowing the same function to be called with different signatures and enabling flexibility and adaptability in code design. In JavaScript, polymorphism is achieved through prototype inheritance and method overloading. It enhances code flexibility, extensibility, and reuse by allowing objects to exhibit multiple forms and behaviors based on their context. Different types of polymorphism in JavaScript include ad-hoc polymorphism, parametric polymorphism, subtype polymorphism, dynamic polymorphism, and compile-time polymorphism. Polymorphism is also leveraged in functional programming and can be applied in various design patterns, such as the strategy pattern, template method pattern, and visitor pattern.",
+    "publishedAt": "2024-03-23T01:36:31.000Z",
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "design-patterns",
+      "general-programming",
+      "javascript"
+    ],
+    "readTime": 13,
+    "numUpvotes": 156,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/polymorphism-in-javascript-huaqrokc8",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "JavaScript's evolution from scripting curiosity to platform substrate remains one of computing's great surprises."
+  },
+  {
+    "id": "fLCxpz_tg",
+    "slug": "learn-modern-javascript-fundamentals-in-7-hoursfree-course",
+    "title": "Learn Modern JavaScript Fundamentals in 7 Hours—Free Course",
+    "url": "https://code.tutsplus.com/tutorials/learn-modern-javascript-fundamentals-free-course--cms-93282",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0046c8ba8baeef771a4303ee00ab793d",
+    "summary": "Learn Modern JavaScript Fundamentals in 7 hours 30 minutes long, and it’s split into 78 lessons in total. You’ll find it's a great resource that you will come back to often so make sure you bookmark the parts that interest you.",
+    "publishedAt": null,
+    "source": {
+      "id": "tuts_plus",
+      "name": "Tuts+",
+      "handle": "tuts_plus",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/tuts_plus"
+    },
+    "tags": [
+      "javascript",
+      "course",
+      "dom"
+    ],
+    "readTime": 18,
+    "numUpvotes": 92,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/learn-modern-javascript-fundamentals-in-7-hours-free-course-flcxpz-tg",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "JavaScript's evolution from scripting curiosity to platform substrate remains one of computing's great surprises."
+  },
+  {
+    "id": "5Rdt9b0J2",
+    "slug": "why-go-is-the-right-default-choice-for-backend-development",
+    "title": "Why Go is the right default choice for backend development",
+    "url": "https://blainsmith.com/articles/just-fucking-use-go",
+    "image": "https://media.daily.dev/image/upload/s--HRgLpUt6--/f_auto/v1722860399/public/Placeholder%2003",
+    "summary": "A blunt, opinionated argument for using Go as the default backend language. Covers Go's intentional simplicity, powerful standard library (net/http, database/sql, encoding/json, context, io.Reader/Writer), built-in tooling (gofmt, go test, pprof, race detector), goroutine-based concurrency, straightforward dependency management via go.mod, and single-binary deployment. Argues against over-engineering with microservices, heavy frameworks, ORMs, and complex deployment pipelines. Includes practical code examples for a web server, parallel HTTP fetcher, and a CRUD handler with Postgres.",
+    "publishedAt": null,
+    "source": {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "handle": "lobsters",
+      "image": "https://media.daily.dev/image/upload/s--tl8v_Fku--/f_auto,t_logo/v1698841318/logos/lobste.jpg"
+    },
+    "tags": [
+      "backend",
+      "golang",
+      "monolith"
+    ],
+    "readTime": 8,
+    "numUpvotes": 92,
+    "numComments": 13,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/just-fucking-use-go-5rdt9b0j2",
+    "wing": "The Languages Gallery",
+    "wingSlug": "the-languages-gallery",
+    "curatorNote": "Go's deliberate simplicity is itself a design statement. Exhibited here as evidence of that philosophy in practice."
+  },
+  {
+    "id": "Y4dhwmtrH",
+    "slug": "the-future-of-the-software-engineering-career",
+    "title": "The Future of the Software Engineering Career",
+    "url": "https://adventures.nodeland.dev/archive/the-future-of-the-software-engineering-career/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2f597e0e11c57eb2aa03085177ad73c1?_a=AQAEulh",
+    "summary": "AI-assisted development is fundamentally changing software engineering careers by eliminating traditional junior developer roles and making deep technical fundamentals more valuable than ever. The bootcamp-to-junior-developer pipeline is closing as AI handles implementation work, making internships critical for developing judgment skills. However, a new opportunity is emerging: AI enables economically viable custom software development for small businesses, creating demand for generalist developers who can serve local markets. Success now requires deep understanding of computer science fundamentals, practical judgment gained through real production experience, and the ability to evaluate AI-generated code rather than just write it.",
+    "publishedAt": null,
+    "source": {
+      "id": "nodeland",
+      "name": "Adventures in Nodeland",
+      "handle": "nodeland",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/4ec40f35e6e440c7ab313b37d0039595"
+    },
+    "tags": [
+      "ai",
+      "career"
+    ],
+    "readTime": 6,
+    "numUpvotes": 308,
+    "numComments": 14,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-future-of-the-software-engineering-career-y4dhwmtrh",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "ImeraOMcp",
+    "slug": "dont-outsource-the-learning",
+    "title": "Don't Outsource the Learning",
+    "url": "https://addyosmani.com/blog/dont-outsource-learning",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2d42074869f6cf53b012099007705157?_a=AQAEuop",
+    "summary": "Addy Osmani argues that the default way developers use AI coding tools optimizes for closing tasks rather than building understanding. Drawing on three recent studies — an Anthropic randomized trial, MIT's 'Your Brain on ChatGPT' EEG research, and a CHI 2026 paper — he shows that passive AI use measurably degrades comprehension and critical thinking. The key finding: the tool doesn't determine the outcome, the posture does. Engineers who used AI to ask conceptual questions outperformed those who copy-pasted generated code. Osmani offers concrete workflow shifts: form a hypothesis before prompting, ask for explanations before code, use learning modes (Claude's Learning Mode, ChatGPT's Study Mode), treat AI output like a junior engineer's PR, and periodically re-derive code by hand. He frames ship velocity and skill growth as two separate metrics — only one of which your employer tracks — and warns that engineers who can only ship with AI are entering a labor market already repricing what expertise is worth.",
+    "publishedAt": null,
+    "source": {
+      "id": "addy",
+      "name": "Addy Osmani",
+      "handle": "addy",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/858094e1be9f4b0d9bef229d84ab12b7"
+    },
+    "tags": [
+      "productivity",
+      "ai-coding"
+    ],
+    "readTime": 8,
+    "numUpvotes": 250,
+    "numComments": 17,
+    "author": {
+      "name": "Addy Osmani",
+      "image": "https://avatars2.githubusercontent.com/u/110953?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/don-t-outsource-the-learning-imeraomcp",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "Every expert was once a beginner. This piece honors the courage of starting."
+  },
+  {
+    "id": "qf5623W39",
+    "slug": "how-software-engineers-can-grow-their-career",
+    "title": "How Software Engineers Can Grow Their Career",
+    "url": "https://www.infoq.com/news/2025/06/software-engineer-career/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f445584850f0f5a19b01bb377a12abdf?_a=AQAEulh",
+    "summary": "Bruno Rey outlines three key factors for software engineer career growth: ambition, capacity, and opportunity. He emphasizes taking proactive steps to broaden influence by learning from peers, stepping outside comfort zones, and taking on tasks beyond current responsibilities. Rey recommends maintaining a brag document to ensure work visibility, setting realistic long-term career goals with intermediate milestones, and planning for setbacks. The approach focuses on expanding one's area of influence through deliberate action and strategic career planning.",
+    "publishedAt": null,
+    "source": {
+      "id": "infoq",
+      "name": "InfoQ",
+      "handle": "infoq",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/afc3bced3e1e4b188dd9127017a60e0c"
+    },
+    "tags": [
+      "career",
+      "leadership"
+    ],
+    "readTime": 5,
+    "numUpvotes": 85,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-software-engineers-can-grow-their-career-qf5623w39",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "flxrCckyx",
+    "slug": "the-anatomy-of-slow-code-reviews-flxrC",
+    "title": "The Anatomy of Slow Code Reviews",
+    "url": "https://www.aviator.co/blog/the-anatomy-of-slow-code-reviews/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e11949ec1adb8bd6b431c313a9837464?_a=AQAEuj9",
+    "summary": "Slow code reviews are a common complaint among software developers, often due to social and cultural factors. Common causes include too many reviewers, large code changes, and a lack of prioritization for reviews. Improving code review times involves understanding these social aspects, simplifying code complexity, and implementing performance metrics such as service level objectives (SLOs) for review and revision times. Encouraging a culture that values swift and thoughtful reviews, as well as using tools to automate parts of the process, can significantly enhance review efficiency.",
+    "publishedAt": "2024-09-09T20:35:53.000Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "productivity",
+      "code-review"
+    ],
+    "readTime": 9,
+    "numUpvotes": 73,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-anatomy-of-slow-code-reviews-flxrcckyx",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "A worthy addition to the permanent collection, chosen for its contribution to the developer canon."
+  },
+  {
+    "id": "1kpk91osr",
+    "slug": "ai-job-title-rebranding-is-just-semantics-the-real-career-ad",
+    "title": "AI job title rebranding is just semantics, the real career advice hasn't changed",
+    "url": "https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now",
+    "image": "https://media.daily.dev/image/upload/s--CxzD6vbw--/f_auto/v1722860399/public/Placeholder%2005",
+    "summary": "A reflection on the AI-driven wave of job title rebranding on LinkedIn, arguing that renaming yourself an 'AI Enabled Engineer' is mostly semantics. Drawing parallels to Patrick McKenzie's classic essay about calling yourself a Software Engineer rather than a programmer, the author contends the real career advice — networking, blogging, building relationships, communicating well — remains as relevant in 2026 as it ever was. Chasing trendy titles misses the point; fundamentals and human connections matter more than whatever label is currently fashionable.",
+    "publishedAt": null,
+    "source": {
+      "id": "idiallo",
+      "name": "Ibrahim Diallo",
+      "handle": "idiallo",
+      "image": "https://media.daily.dev/image/upload/s--UBuPzW64--/f_auto,q_auto/v1774960037/logos/idiallo?_a=BAMAMiWQ0"
+    },
+    "tags": [
+      "ai",
+      "career",
+      "personal-branding"
+    ],
+    "readTime": 5,
+    "numUpvotes": 60,
+    "numComments": 12,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/don-t-call-yourself-a-software-engineer-you-are-an-ai-enabled-engineer--1kpk91osr",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "spSYQ1HbC",
+    "slug": "software-engineering-may-no-longer-be-a-lifetime-career",
+    "title": "Software engineering may no longer be a lifetime career",
+    "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/479e95ee2af112c350fa09a341f0c630?_a=AQAEuop",
+    "summary": "AI adoption may fundamentally change software engineering as a long-term career. Even if using AI tools causes skill atrophy over time, engineers may still be obligated to use them to remain competitive — just as construction workers must lift heavy objects despite long-term physical wear. The analogy to professional athletes is drawn: software engineers may be entering an era where the career has a finite productive lifespan, and those who refuse AI tools risk being outcompeted. The post urges engineers to acknowledge this possibility and plan accordingly, rather than dismissing it.",
+    "publishedAt": null,
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "ai",
+      "career",
+      "ai-coding"
+    ],
+    "readTime": 5,
+    "numUpvotes": 57,
+    "numComments": 14,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/software-engineering-may-no-longer-be-a-lifetime-career-spsyq1hbc",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "Mg9IvQ1Ac",
+    "slug": "technical-interview-prep",
+    "title": "Technical Interview Prep",
+    "url": "https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/5a0848c05ac96b835adf874f8f822586?_a=AQAEuiZ",
+    "summary": "Learn about back-of-the-envelope estimation for system design interviews. Understand the concepts of power of two, latency numbers, and availability numbers. Get tips for solving estimation problems in interviews.",
+    "publishedAt": "2024-05-22T00:43:22.149Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "career"
+    ],
+    "readTime": 5,
+    "numUpvotes": 45,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/technical-interview-prep-mg9ivq1ac",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "BrCkTqbzR",
+    "slug": "the-ai-native-developer",
+    "title": "The AI-native developer",
+    "url": "https://newsletter.getdx.com/p/the-ai-native-developer",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/3df16006395d3dfececfdd47958c21ac?_a=AQAEuop",
+    "summary": "A research-backed study surveying 1,300+ developers and interviewing 22 AI-fluent practitioners explores how AI is reshaping the developer role. Developers' openness to AI varies by task type: they welcome AI for coding and ops work but want to retain control over relational and stakeholder work. AI fluency follows a four-stage journey from Skeptic to Strategist, with advanced users orchestrating multiple agents and front-loading context. Key tensions include a 'learning paradox' around prompting vs. engineering mastery, deskilling risks for junior developers, and accountability gaps as velocity increases. Three possible futures are outlined: AI as accelerator, orchestration-first engineering, or a dystopian 'Clerical Coder' model where humans rubber-stamp AI output at scale.",
+    "publishedAt": null,
+    "source": {
+      "id": "engineering_enablement",
+      "name": "Engineering Enablement",
+      "handle": "engineering_enablement",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/3c8216b036d34c1cbe1678385355f35d"
+    },
+    "tags": [
+      "productivity",
+      "ai-agents",
+      "ai-assisted-development"
+    ],
+    "readTime": 6,
+    "numUpvotes": 45,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-ai-native-developer-brcktqbzr",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "fxOKe01ok",
+    "slug": "clean-up-your-gmail-and-reclaim-your-inbox-with-inboxpurge",
+    "title": "Clean Up Your Gmail and Reclaim Your Inbox with InboxPurge",
+    "url": "https://www.inboxpurge.com/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a1c405ec26b5b0d95907c840432b1ae6?_a=AQAEuiZ",
+    "summary": "Clean up your Gmail and regain control of your inbox with InboxPurge. Unsubscribe, delete, and block all within your Gmail. Say goodbye to tedious unsubscribe processes. Bulk delete cluttered inboxes in seconds. Your emails and personal data remain private. Elevate your productivity and spend less time on email management. Streamlined email management experience within your Gmail.",
+    "publishedAt": "2024-05-15T18:42:14.315Z",
+    "source": {
+      "id": "hn",
+      "name": "Hacker News",
+      "handle": "hn",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/hn"
+    },
+    "tags": [
+      "privacy",
+      "productivity"
+    ],
+    "readTime": 1,
+    "numUpvotes": 44,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/clean-up-your-gmail-and-reclaim-your-inbox-with-inboxpurge-fxoke01ok",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "q8GQbcfv2",
+    "slug": "how-engineering-levels-shifted-from-skill-to-ownership-and-r",
+    "title": "How engineering levels shifted from skill to ownership and responsibility",
+    "url": "https://swizec.com/blog/engineering-levels-arent-about-skill-anymore",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/db92eaaa70ec49e890e76874eca01783?_a=AQAEuop",
+    "summary": "Engineering levels have shifted from measuring technical skill progression to measuring scope of ownership and responsibility. The traditional ladder (entry → mid → senior → staff+) was about coding ability and mentorship. The new model treats every engineer as a mini staff engineer: entry-level owns implementation within a defined scope, mid-level owns features end-to-end, seniors own product areas and manage their own backlogs, and staff+ simply expands that ownership further. The key differentiator at every level is now how much responsibility and stakeholder interaction you can handle, not what kind of code you write.",
+    "publishedAt": null,
+    "source": {
+      "id": "swizec",
+      "name": "swizec.com",
+      "handle": "swizec",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/a0733daf6e014e23a638ded7f2d4cd70"
+    },
+    "tags": [
+      "career",
+      "leadership"
+    ],
+    "readTime": 6,
+    "numUpvotes": 33,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/engineering-levels-aren-t-about-skill-anymore-q8gqbcfv2",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "oFbO8N6zl",
+    "slug": "dynamic-github-profile-with-bun-and-typescript",
+    "title": "Dynamic Github profile with Bun and Typescript",
+    "url": "https://tduyng.github.io/blog/dynamic-github-profile-with-bun-typescript/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0469b49ccfd0fb2e69ebf881d13247b8?_a=AQAEuiZ",
+    "summary": "Learn how to enhance your GitHub profile using Bun and TypeScript. Install Bun, explore the differences between JavaScript and TypeScript, and understand how rss-parser works.",
+    "publishedAt": "2024-05-16T18:44:25.664Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "javascript",
+      "github",
+      "typescript",
+      "bun"
+    ],
+    "readTime": 6,
+    "numUpvotes": 710,
+    "numComments": 18,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/dynamic-github-profile-with-bun-and-typescript-ofbo8n6zl",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Version control is infrastructure so fundamental we forget it was invented. This work honors the craft within the tool."
+  },
+  {
+    "id": "EqLrg895H",
+    "slug": "discover-bun-a-faster-modern-javascript-runtime",
+    "title": "Discover Bun - A Faster, Modern JavaScript Runtime",
+    "url": "https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/9797ee9f6b9c776247d75068591e828e?_a=AQAEufR",
+    "summary": "The Javascript Space is completely different from 15 years ago when NodeJS was first released. The technology behind Bun Bun is a Javascript Runtime. It starts with an Engine - The Component of a runtime that runs the Javascript code. Bun comes with built-in testing support, and so it is much faster from the other ones.",
+    "publishedAt": "2023-09-10T12:36:08.000Z",
+    "source": {
+      "id": "devto",
+      "name": "DEV",
+      "handle": "devto",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/devto"
+    },
+    "tags": [
+      "javascript",
+      "testing",
+      "open-source",
+      "nodejs",
+      "typescript",
+      "deno",
+      "jsx",
+      "bun"
+    ],
+    "readTime": 3,
+    "numUpvotes": 251,
+    "numComments": 27,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/discover-bun---a-faster-modern-javascript-runtime-eqlrg895h",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "JavaScript's evolution from scripting curiosity to platform substrate remains one of computing's great surprises."
+  },
+  {
+    "id": "pLl176on7",
+    "slug": "10-essential-vscode-extensions-for-newbie-web-developers",
+    "title": "10 Essential VSCode Extensions for Newbie Web Developers",
+    "url": "https://blog.ossph.org/10-essential-vscode-extensions-for-newbie-web-developers/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1bc6a47f17efb44ebcaad0b5a28a57ed?_a=AQADKdt",
+    "summary": "VSCode is a powerful and popular code editor that provides an extensive range of functionalities. For beginner web developers, these extensions can significantly improve productivity and streamline the development process. We will explore ten useful VSCode extensions that every aspiring web developer should consider adding to their toolbox.",
+    "publishedAt": "2023-05-17T01:53:24.000Z",
+    "source": {
+      "id": "ossphs",
+      "name": "OSSPH",
+      "handle": "ossphs",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/bae3504115d845658067c19bef6cfba5"
+    },
+    "tags": [
+      "devtools",
+      "git",
+      "html",
+      "javascript",
+      "vscode",
+      "webdev"
+    ],
+    "readTime": 4,
+    "numUpvotes": 125,
+    "numComments": 19,
+    "author": {
+      "name": "Joff Tiquez",
+      "image": "https://avatars.githubusercontent.com/u/8638243?v=4"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/10-essential-vscode-extensions-for-newbie-web-developers-pll176on7",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "A developer's editor is their workshop. This piece curates the tools within the tool."
+  },
+  {
+    "id": "VNI1ILIBd",
+    "slug": "engineering-den-claude-code-skills-and-hooks-for-frontend-te",
+    "title": "Engineering Den: Claude Code skills and hooks for frontend teams",
+    "url": "https://www.redpanda.com/blog/claude-code-skills-hooks-frontend",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/5b28c94a46fe0c0df432068830b7e4a0?_a=AQAEuop",
+    "summary": "Redpanda's UX and cloud teams have shipped a shared skills and hooks repository for frontend developers using Claude Code. A single install command sets up guardrails that trigger inside Claude Code and Codex during development, automatically checking type safety, linting, formatting, testing, builds, and catching anti-patterns like TypeScript 'any' usage, missing tests, and accessibility gaps. A lifecycle skill guides Claude Code through a structured flow: clarifying questions, planning, test-driven implementation, PR creation, and report generation that can be posted as a GitHub issue or Jira ticket. The post also mentions SandCastle, a community project that gives each Claude Code instance its own Docker container to autonomously iterate on tickets using the same skills and hooks.",
+    "publishedAt": null,
+    "source": {
+      "id": "redpanda",
+      "name": "Redpanda",
+      "handle": "redpanda",
+      "image": "https://media.daily.dev/image/upload/s--1R2EIDcb--/f_auto,q_auto/v1769934743/logos/redpanda"
+    },
+    "tags": [
+      "typescript",
+      "git",
+      "ai-coding",
+      "claude-code"
+    ],
+    "readTime": 2,
+    "numUpvotes": 124,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/engineering-den-claude-code-skills-and-hooks-for-frontend-teams-vni1ilibd",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "The craft extends beyond code into the human systems that produce it. A document of professional wisdom."
+  },
+  {
+    "id": "q0b2nPVVg",
+    "slug": "meet-million-lint-a-vscode-extension-that-identifies-slow-co",
+    "title": "Meet Million Lint: A VSCode Extension that Identifies Slow Code and Suggests Fixes",
+    "url": "https://www.marktechpost.com/2024/06/27/meet-million-lint-a-vscode-extension-that-identifies-slow-code-and-suggests-fixes/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/db8375ae00f1c6d0093e36e6bf94c5a0?_a=AQAEuiZ",
+    "summary": "Million Lint is a VSCode extension designed to detect slow code in React applications and suggest optimizations. It identifies components that are re-rendering unnecessarily and provides actionable insights to enhance performance. Installation is straightforward via the VSCode marketplace, and it helps developers of all levels maintain efficient code easily.",
+    "publishedAt": "2024-06-27T00:00:00.000Z",
+    "source": {
+      "id": "marktechpost",
+      "name": "Machine Learning News",
+      "handle": "mlnews",
+      "image": "https://media.daily.dev/image/upload/s--0PoEtdkd--/f_auto/v1750409401/squads/marktechpost?_a=BAMClqZW0"
+    },
+    "tags": [
+      "devtools",
+      "javascript",
+      "performance",
+      "react",
+      "vscode"
+    ],
+    "readTime": 3,
+    "numUpvotes": 99,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/meet-million-lint-a-vscode-extension-that-identifies-slow-code-and-suggests-fixes-q0b2npvvg",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "A developer's editor is their workshop. This piece curates the tools within the tool."
+  },
+  {
+    "id": "6fhD6uFdW",
+    "slug": "replace-rails-glue-code-with-self-hosted-n8n-automation-work",
+    "title": "Replace Rails glue code with self-hosted n8n automation workflows",
+    "url": "https://norvilis.com/the-solo-developer-s-secret-weapon-self-hosted-automation-with-n8n",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/9deef5a7b55b872b5aa9d3bdf07a051c?_a=AQAEuop",
+    "summary": "A solo developer explains why they replaced custom Ruby/Rails integration scripts with self-hosted n8n workflows. Two concrete use cases are shown: a new-user onboarding flow that triggers a webhook from Rails and fans out to Beehiiv, Discord, and Google Sheets; and a nightly database report that queries Postgres, summarizes metrics via OpenAI, and sends results to Telegram. The post argues that 'glue code' (integrations, alerts, data syncing) should be offloaded to visual automation tools rather than maintained as custom code, keeping the core Rails app lean. n8n is positioned as a developer-friendly, self-hostable alternative to Zapier, deployable on a $5 VPS with Docker.",
+    "publishedAt": "2026-05-11T00:00:00.000Z",
+    "source": {
+      "id": "rubyflow",
+      "name": "Ruby Flow",
+      "handle": "rubyflow",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/a21aaa8bcbbf448193a016895c90a0e1"
+    },
+    "tags": [
+      "automation",
+      "docker",
+      "rails",
+      "self-hosting",
+      "n8n"
+    ],
+    "readTime": 5,
+    "numUpvotes": 95,
+    "numComments": 4,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-solo-developer-s-secret-weapon-self-hosted-automation-with-n8n-6fhd6ufdw",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Acquired during the great AI acceleration. Future visitors will study this period with particular interest."
+  },
+  {
+    "id": "VlXmXX2O2",
+    "slug": "the-guide-to-kubectl-i-never-had",
+    "title": "The guide to kubectl I never had.",
+    "url": "https://medium.com/@jake.page91/the-guide-to-kubectl-i-never-had-3874cc6074ff",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/0014ab6308a6767ad686c3f61462a7c0?_a=AQAEuiZ",
+    "summary": "This post provides a comprehensive guide to using kubectl, the CLI tool for communicating with the Kubernetes API. It covers installation, command syntax, useful commands, plugins and tools, troubleshooting, and more.",
+    "publishedAt": "2024-05-14T16:43:32.019Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "tools",
+      "kubernetes",
+      "cli"
+    ],
+    "readTime": 14,
+    "numUpvotes": 90,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/the-guide-to-kubectl-i-never-had--vlxmxx2o2",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "A developer's editor is their workshop. This piece curates the tools within the tool."
+  },
+  {
+    "id": "Ln4CIrxLK",
+    "slug": "how-to-perform-performance-testing-on-your-web-applications",
+    "title": "How to Perform Performance Testing on Your Web Applications",
+    "url": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/6b26d2f9aebcaf653dbf7d68085b4039?_a=AQAEufR",
+    "summary": "Learn the importance of performance testing in software development, explore popular tools for backend testing, and see a tutorial on how to perform unit tests in a web application.",
+    "publishedAt": "2024-02-26T19:52:39.000Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "webdev",
+      "javascript",
+      "testing",
+      "nodejs"
+    ],
+    "readTime": 7,
+    "numUpvotes": 78,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-to-perform-performance-testing-on-your-web-applications-ln4cirxlk",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Tests are the conscience of a codebase — silent until something breaks. This piece makes their value audible."
+  },
+  {
+    "id": "DDCgwovcl",
+    "slug": "vs-code-was-silently-adding-copilot-as-a-git-co-author-on-al",
+    "title": "VS Code was silently adding Copilot as a git co-author on all commits",
+    "url": "https://feed.itsfoss.com/link/24361/17334712/vs-code-credits-copilot-for-human-work",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/4e70de11767e73ab6c1099c0784f6a75?_a=AQAEuop",
+    "summary": "VS Code quietly began adding a 'Co-authored-by: Copilot' trailer to git commits after a pull request in April changed the default value of the git.addAICoAuthor setting from 'off' to 'all'. This meant any user who hadn't manually configured the setting had Copilot credited in their git history — even on commits written entirely without AI assistance. The trailer also appeared when Copilot features were explicitly disabled, and was appended after commit finalization with no chance to review it. A VS Code team member acknowledged the mistake on Hacker News, apologized, and a fix reverting the default back to 'off' has been merged and is expected in VS Code 1.119.",
+    "publishedAt": "2026-05-05T10:35:42.000Z",
+    "source": {
+      "id": "itsfoss",
+      "name": "It's Foss",
+      "handle": "itsfoss",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/582e3faed71842bfb9d3840a787d6700"
+    },
+    "tags": [
+      "microsoft",
+      "github",
+      "git",
+      "vscode"
+    ],
+    "readTime": 3,
+    "numUpvotes": 56,
+    "numComments": 8,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/typical-microsoft-turns-out-vs-code-was-adding-copilot-as-a-git-co-author-without-telling-anyone-ddcgwovcl",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Version control is infrastructure so fundamental we forget it was invented. This work honors the craft within the tool."
+  },
+  {
+    "id": "Xqc7SKb2G",
+    "slug": "a-github-agentic-workflow",
+    "title": "A GitHub agentic workflow",
+    "url": "https://blog.frankel.ch/agentic-github-workflows/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2d6224d9f5efe9fbf73007176bdfda73?_a=AQAEuop",
+    "summary": "GitHub agentic workflows combine standard GitHub Actions with an AI agent (powered by Copilot) to handle semi-structured or unstructured data tasks. The author describes a real use case: automating the parsing of product release notes to generate upgrade analysis config files — something impossible with deterministic regex-based automation. Key steps covered include initializing workflows via the `gh aw` CLI extension, writing workflows in Markdown and compiling them to YAML, and using a fine-grained `GITHUB_COPILOT_TOKEN`. Practical pitfalls are shared: forgetting to compile Markdown to YAML before pushing, Windows/Linux line-ending issues requiring a `.gitattributes` fix, security concerns around auto-compiling workflows, and the inability to use GitHub Marketplace actions inside agentic workflows. The system prompt used at runtime is also shared, highlighting security hardening and prompt injection defenses.",
+    "publishedAt": "2026-04-12T00:00:00.000Z",
+    "source": {
+      "id": "frankel",
+      "name": "A Java geek",
+      "handle": "frankel",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/b7f3fdbf443347ea84705578a195085b"
+    },
+    "tags": [
+      "github",
+      "automation",
+      "cicd",
+      "ai-agents",
+      "github-actions"
+    ],
+    "readTime": 7,
+    "numUpvotes": 53,
+    "numComments": 2,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/a-github-agentic-workflow-xqc7skb2g",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Version control is infrastructure so fundamental we forget it was invented. This work honors the craft within the tool."
+  },
+  {
+    "id": "FpHM7pUxx",
+    "slug": "previewing-the-javascripttypescript-modernizer-for-vs-code-i",
+    "title": "Previewing the JavaScript/TypeScript Modernizer for VS Code Insiders",
+    "url": "https://devblogs.microsoft.com/blog/jsts-modernizer-preview",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/529b0d0b052bba8bdda3e5aea856721b?_a=AQAEulh",
+    "summary": "Microsoft introduces the JavaScript/TypeScript Modernizer, an AI-powered VS Code extension that automates upgrading npm packages and fixing breaking changes in JS/TS projects. Available in VS Code Insiders as part of the GitHub Copilot App Modernization extension, it analyzes package.json files, proposes upgrade plans, updates dependencies to latest versions, and suggests necessary code changes through an interactive Copilot Chat experience. The tool requires VS Code Insiders, Node.js/npm, GitHub Copilot access, and enabling an experimental feature flag. Currently in preview with limitations including single-project support and potential rough edges.",
+    "publishedAt": "2025-12-09T17:41:29.000Z",
+    "source": {
+      "id": "devblogs",
+      "name": "DevBlogs",
+      "handle": "devblogs",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/8f68b453325f482ebeb73fb780092713"
+    },
+    "tags": [
+      "javascript",
+      "github",
+      "typescript",
+      "vscode",
+      "npm"
+    ],
+    "readTime": 8,
+    "numUpvotes": 50,
+    "numComments": 3,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/previewing-the-javascript-typescript-modernizer-for-vs-code-insiders-fphm7puxx",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "Types as documentation, types as guardrails. This exhibit explores the space between freedom and safety."
+  },
+  {
+    "id": "8BSjfQfH_",
+    "slug": "cool-vscode-extensions-for-developers",
+    "title": "Cool Vscode Extensions for Developers",
+    "url": "https://abiolafarounbiblog.hashnode.dev/cool-vscode-extensions-for-developers",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/876370bb4dcbec770b5a45336ce6a266",
+    "summary": "The Vscode Extension allows you to add tools, languages, debuggers, and much more to your code editor. With the vscode extension, developers write faster, cleaner, and more consistent code. To get started is quite simple, we just have to install the extensions on our editor from the extensions panel.",
+    "publishedAt": "2020-12-08T09:44:59.000Z",
+    "source": {
+      "id": "hashnode",
+      "name": "Hashnode",
+      "handle": "hashnode",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/4a287b2e7cb5499bae863f8e7137cdb4"
+    },
+    "tags": [
+      "css",
+      "devtools",
+      "general-programming",
+      "git",
+      "javascript"
+    ],
+    "readTime": 4,
+    "numUpvotes": 46,
+    "numComments": 6,
+    "author": {
+      "name": "Abiola Esther",
+      "image": "https://lh5.googleusercontent.com/-ysz70eDwSyY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmewE6ianRlr8sNfyEzxeymLZ_2AQ/s100/photo.jpg"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/cool-vscode-extensions-for-developers-8bsjfqfh",
+    "wing": "The Tools Workshop",
+    "wingSlug": "the-tools-workshop",
+    "curatorNote": "A developer's editor is their workshop. This piece curates the tools within the tool."
+  },
+  {
+    "id": "bAafP8CoU",
+    "slug": "how-i-mastered-data-structures-and-algorithms",
+    "title": "How I Mastered Data Structures and Algorithms",
+    "url": "https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/4175d9ad6ee47097dc81e2916dfc206e?_a=AQAEuiZ",
+    "summary": "Mastering Data Structures and Algorithms (DSA) is crucial for clearing interviews at top tech companies like Amazon, Google, and Microsoft. The post provides efficient strategies for learning DSA, including focusing on key topics, learning one topic at a time, using real-world applications, implementing concepts from scratch, and practicing with problems. It also emphasizes the importance of solving problems over theoretical study, recognizing problem-solving patterns, and maintaining consistency and repetition to retain knowledge over time. Regular practice and revisiting challenging problems are key to success.",
+    "publishedAt": "2024-06-30T19:50:53.038Z",
+    "source": {
+      "id": "substack",
+      "name": "Substack",
+      "handle": "substack",
+      "image": "https://media.daily.dev/image/upload/s--KFqxX_OL--/f_auto,t_logo/v1698154293/logos/substack.jpg"
+    },
+    "tags": [
+      "algorithms",
+      "data-structures",
+      "interview-questions"
+    ],
+    "readTime": 6,
+    "numUpvotes": 3989,
+    "numComments": 130,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-i-mastered-data-structures-and-algorithms-baafp8cou",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "A piece that commanded the attention of thousands — the kind of article developers bookmark before they finish reading."
+  },
+  {
+    "id": "MXrfApCkC",
+    "slug": "design-patterns",
+    "title": "Design Patterns",
+    "url": "https://refactoring.guru/design-patterns",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/dbf9e98269595be86eb668f365be6868",
+    "summary": "Design Patterns Design patterns are a toolkit of solutions to common problems in software design. They define a common language that helps your team communicate more efficiently. They can be categorized by their intent and divided into three groups.",
+    "publishedAt": null,
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "java",
+      "design-patterns"
+    ],
+    "readTime": 1,
+    "numUpvotes": 827,
+    "numComments": 42,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/design-patterns-mxrfapckc",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Patterns are the shared vocabulary of software craft. This exhibit reminds us that most problems have been solved before."
+  },
+  {
+    "id": "RgtBHkVyO",
+    "slug": "how-to-design-twitter-x-in-a-system-design-interview",
+    "title": "How to Design Twitter (X) in a System Design Interview?",
+    "url": "https://medium.com/javarevisited/how-to-design-twitter-in-a-system-design-interview-98983c649cc0",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/1d211d8657f99fd2fea8d204c9bdca77?_a=AQAEuiZ",
+    "summary": "Designing a system like Twitter (X) in a system design interview involves outlining core functionalities such as composing and sharing tweets, following users, and favoriting tweets. Non-functional requirements like scalability, high availability, and stability are crucial for handling large-scale operations. Key aspects include capacity estimation, API design, database design, and understanding queries per second (QPS). Employing a structured approach and utilizing tools like Redis for caching, MySQL for data consistency, and Amazon S3 for media storage are essential. Detailed component design includes load balancers, CDNs, and handling failure scenarios to ensure robust system performance.",
+    "publishedAt": "2024-08-18T11:02:26.287Z",
+    "source": {
+      "id": "javarevisited",
+      "name": "Javarevisited",
+      "handle": "javarevisited",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/9ca6532654d146408235d53f0823a26d"
+    },
+    "tags": [
+      "architecture",
+      "career",
+      "distributed-systems"
+    ],
+    "readTime": 16,
+    "numUpvotes": 613,
+    "numComments": 10,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/how-to-design-twitter-x-in-a-system-design-interview--rgtbhkvyo",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "3TB2BOeI2",
+    "slug": "learn-data-structures-and-algorithms-in-48-hours",
+    "title": "Learn Data Structures and Algorithms in 48 Hours",
+    "url": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e39b0a6368164a654a2afdfddf053a69?_a=AQAEufR",
+    "summary": "Master Data Structures and Algorithms in this comprehensive course that covers algorithm analysis, data structures, and core concepts. Learn problem-solving skills, optimize solutions, and prepare for technical interviews.",
+    "publishedAt": "2024-02-20T18:20:57.000Z",
+    "source": {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "handle": "freecodecamp",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1628412854/logos/freecodecamp"
+    },
+    "tags": [
+      "java",
+      "algorithms",
+      "data-structures"
+    ],
+    "readTime": 2,
+    "numUpvotes": 491,
+    "numComments": 8,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/learn-data-structures-and-algorithms-in-48-hours-3tb2boei2",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "The perennial challenge of computational thinking, distilled into something approachable. A rite of passage, preserved here."
+  },
+  {
+    "id": "2FoUn3FGg",
+    "slug": "most-used-distributed-system-design-patterns",
+    "title": "Most-Used Distributed System Design Patterns",
+    "url": "https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8be029ee3235d2cc4ed12b5f2db32e3d?_a=AQAEuiZ",
+    "summary": "Distributed system design patterns offer architectural solutions and best practices for developing distributed applications. This post discusses widely-used patterns like Ambassador for proxy tasks, Circuit Breaker to prevent cascading failures, CQRS for separating read and write databases, Event Sourcing for recording events, Sidecar for managing cross-cutting concerns, Leader Selection for electing a single node leader, Publisher/Subscriber for asynchronous communication, Sharding for data distribution, Bulkhead to isolate system components, and Cache-Aside for optimized caching strategies. Examples of tools and implementations for each pattern are provided to illustrate their applications and benefits.",
+    "publishedAt": "2024-07-05T15:03:23.036Z",
+    "source": {
+      "id": "javarevisited",
+      "name": "Javarevisited",
+      "handle": "javarevisited",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/9ca6532654d146408235d53f0823a26d"
+    },
+    "tags": [
+      "architecture",
+      "cloud",
+      "distributed-systems",
+      "kubernetes",
+      "microservices",
+      "service-mesh"
+    ],
+    "readTime": 16,
+    "numUpvotes": 444,
+    "numComments": 5,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/most-used-distributed-system-design-patterns-2foun3fgg",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Patterns are the shared vocabulary of software craft. This exhibit reminds us that most problems have been solved before."
+  },
+  {
+    "id": "IYyP3YWnS",
+    "slug": "8-essential-distributed-system-design-patterns",
+    "title": "8 essential distributed system design patterns",
+    "url": "https://newsletter.systemdesigncodex.com/p/8-must-know-distributed-system-design",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/7cbf4a2a2280ce509249d833834e6e44?_a=AQAEuj9",
+    "summary": "Distributed systems are crucial for scalability, fault tolerance, and high availability but pose challenges such as state management, failure handling, and communication. Key design patterns like Ambassador Pattern, Circuit Breaker Pattern, CQRS, Sharding, Sidecar Pattern, Pub/Sub Pattern, Leader Election, and Event Sourcing help address these challenges by offloading tasks, preventing cascading failures, separating read/writes, partitioning data, decoupling concerns, enabling async communication, managing shared resources, and capturing state changes as events.",
+    "publishedAt": null,
+    "source": {
+      "id": "systemdesigncodex",
+      "name": "System Design Codex",
+      "handle": "systemdesigncodex",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/0df89304c19443509ec91a6ccb707853"
+    },
+    "tags": [
+      "career",
+      "microservices",
+      "distributed-systems"
+    ],
+    "readTime": 6,
+    "numUpvotes": 379,
+    "numComments": 6,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/8-must-know-distributed-system-design-patterns-iyyp3ywns",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Patterns are the shared vocabulary of software craft. This exhibit reminds us that most problems have been solved before."
+  },
+  {
+    "id": "bQmvydvWx",
+    "slug": "design-patterns-a-deep-dive-into-common-design-patterns",
+    "title": "DESIGN PATTERNS : A Deep Dive into Common Design Patterns",
+    "url": "https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/075be34d89572871d8c961d22464e7d4?_a=AQAEuiZ",
+    "summary": "Design patterns are reusable solutions to common design problems encountered in software development. They offer templates involving classes, interfaces, and relationships between them. Key types of design patterns include Creational, Structural, and Behavioral patterns. Each category provides specific solutions like Singleton, Builder, Factory Method, Adapter, Facade, Iterator, Strategy, and Observer patterns. Examples illustrating how these patterns can be implemented are provided to showcase their practical applications.",
+    "publishedAt": "2024-09-05T20:46:28.202Z",
+    "source": {
+      "id": "java_libhunt",
+      "name": "Awesome Java Newsletter",
+      "handle": "java_libhunt",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/7729929f2ca649d7b13f6b04aa94d300"
+    },
+    "tags": [
+      "design-patterns",
+      "general-programming"
+    ],
+    "readTime": 13,
+    "numUpvotes": 350,
+    "numComments": 6,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/design-patterns-a-deep-dive-into-common-design-patterns-bqmvydvwx",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Patterns are the shared vocabulary of software craft. This exhibit reminds us that most problems have been solved before."
+  },
+  {
+    "id": "RGVrtmPMw",
+    "slug": "5-javasript-github-repositories-for-interview-prep",
+    "title": "5 JavaSript GitHub Repositories for Interview Prep!📝",
+    "url": "https://dev.to/prnvbirajdar/5-javasript-github-repositories-for-interview-prep-306h",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/9eeb9329d96502b323a2ddc24dd963cc?_a=AQAEuiZ",
+    "summary": "A list of JavaScript GitHub repositories for interview preparation and improving core JavaScript fundamentals.",
+    "publishedAt": "2024-05-07T09:37:49.494Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "javascript",
+      "algorithms",
+      "data-structures",
+      "interview-questions"
+    ],
+    "readTime": 2,
+    "numUpvotes": 276,
+    "numComments": 10,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/5-javasript-github-repositories-for-interview-prep--rgvrtmpmw",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "DlMEakbpn",
+    "slug": "software-engineer-interview-the-interview-study-guide-for-so",
+    "title": "Software Engineer Interview: The Interview Study Guide For Software Engineers",
+    "url": "https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/7214f9efb1c8a2b5a0f7abc54293d655",
+    "summary": "Ben Rogojan created a checklist on his last round of interviews that covers many of the popular topics. To help you keep track of your progress, we've compiled a comprehensive checklist of the same problems listed below.",
+    "publishedAt": null,
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "sql",
+      "interview",
+      "algorithms",
+      "design-patterns",
+      "binary-search",
+      "data-structures",
+      "dynamic-programming"
+    ],
+    "readTime": 6,
+    "numUpvotes": 271,
+    "numComments": 11,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/software-engineer-interview-the-interview-study-guide-for-software-engineers-dlmeakbpn",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "The whiteboard interview persists. This artifact shows how practitioners prepare for its peculiar demands."
+  },
+  {
+    "id": "uM3B6wKV2",
+    "slug": "clean-architecture-sucks",
+    "title": "Clean Architecture Sucks",
+    "url": "https://ardalis.com/clean-architecture-sucks/",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e28670db36feaea74b99ad69c75292f4?_a=AQAEuiZ",
+    "summary": "Clean Architecture is not a silver bullet and its success depends on the technical expertise of the developers. Inexperienced teams may struggle with implementing the architecture correctly. It's important to understand different approaches to software architecture and seek guidance from experienced developers.",
+    "publishedAt": "2024-05-23T00:00:00.000Z",
+    "source": {
+      "id": "ardalis",
+      "name": "Ardalis",
+      "handle": "ardalis",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/9a81f88e482047f68adc1d0ef677ec9b"
+    },
+    "tags": [
+      "architecture",
+      "leadership",
+      "domain-driven-design"
+    ],
+    "readTime": 5,
+    "numUpvotes": 257,
+    "numComments": 18,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/clean-architecture-sucks-um3b6wkv2",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Architecture is the art of decisions that are expensive to reverse. Exhibited here as a guide to making them well."
+  },
+  {
+    "id": "phIwaS3gg",
+    "slug": "ep161-a-cheatsheet-on-rest-api-design-best-practices",
+    "title": "EP161: A Cheatsheet on REST API Design Best Practices",
+    "url": "https://blog.bytebytego.com/p/ep161-a-cheatsheet-on-rest-api-design",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f2a8f76d72ab5dd4267e630c047a14ac?_a=AQAEuj9",
+    "summary": "REST API design involves best practices such as using resource-oriented paths, applying HTTP verbs properly, maintaining API versioning, and utilizing standard error codes. Ensuring APIs are idempotent and supporting pagination can enhance performance and reliability. Security measures like using API Keys, JWTs, OAuth2, and HTTPS are crucial for protecting APIs in production.",
+    "publishedAt": null,
+    "source": {
+      "id": "bytebytego",
+      "name": "ByteByteGo",
+      "handle": "bytebytego",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/35be29234ee14d01a9cd049c52e12753"
+    },
+    "tags": [
+      "security",
+      "webdev",
+      "career",
+      "architecture",
+      "rest-api"
+    ],
+    "readTime": 6,
+    "numUpvotes": 237,
+    "numComments": 1,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/ep161-a-cheatsheet-on-rest-api-design-best-practices-phiwas3gg",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "APIs are the seams between systems. This piece examines what makes those seams hold under pressure."
+  },
+  {
+    "id": "eEgwO9unr",
+    "slug": "9-software-architecture-patterns-for-distributed-systems",
+    "title": "9 Software Architecture Patterns for Distributed Systems",
+    "url": "https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f932036df14a51d83ea2a0f8fd66b93b?_a=AQAEuiZ",
+    "summary": "In modern software development, distributed systems require efficient design to manage data and communication between components. Key architectural patterns like Peer-to-Peer, API Gateway, Pub-Sub, Request-Response, Event Sourcing, ETL, Batching, Streaming Processing, and Orchestration offer solutions for reliability, scalability, and maintainability. These patterns are essential not only for system robustness but also for system design interviews, providing a deep understanding of their strengths and trade-offs.",
+    "publishedAt": "2024-07-22T11:26:11.874Z",
+    "source": {
+      "id": "community",
+      "name": "Community Picks",
+      "handle": "community",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1655817725/logos/community"
+    },
+    "tags": [
+      "architecture",
+      "career",
+      "data-processing",
+      "distributed-systems",
+      "microservices"
+    ],
+    "readTime": 6,
+    "numUpvotes": 229,
+    "numComments": 0,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/9-software-architecture-patterns-for-distributed-systems-eegwo9unr",
+    "wing": "The Theory Library",
+    "wingSlug": "the-theory-library",
+    "curatorNote": "Architecture is the art of decisions that are expensive to reverse. Exhibited here as a guide to making them well."
+  },
+  {
+    "id": "WXYDTikzS",
+    "slug": "react-code-conventions-and-best-practices",
+    "title": "React code conventions and best practices",
+    "url": "https://levelup.gitconnected.com/react-code-conventions-and-best-practices-433e23ed69aa?source=rss----5517fd7b58a6---4",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/383a595f62f45320de504ef31f2cf201",
+    "summary": "React code conventions and best practices use linting and automatic formatter. Use PascalCase in components, interfaces, or type aliases. Prefer using typescript barrels A barrel is a way to roll up exports from several modules into a single convenient module.",
+    "publishedAt": "2022-08-03T11:51:07.645Z",
+    "source": {
+      "id": "gc",
+      "name": "gitconnected",
+      "handle": "gc",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/gc"
+    },
+    "tags": [
+      "react",
+      "javascript",
+      "react-hooks"
+    ],
+    "readTime": 3,
+    "numUpvotes": 221,
+    "numComments": 8,
+    "author": null,
+    "commentsPermalink": "https://app.daily.dev/posts/react-code-conventions-and-best-practices-wxydtikzs",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "React's ecosystem rewards discipline. This piece maps the terrain between 'it works' and 'it works well.'"
+  },
+  {
+    "id": "JaSYQjJbF",
+    "slug": "typescript-utility-types-a-complete-guide",
+    "title": "TypeScript Utility Types: A Complete Guide",
+    "url": "https://www.syncfusion.com/blogs/post/master-typescript-utility-types",
+    "image": "https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/6e3fa93ed987a3ad082e4b4d3e324b42?_a=AQAEuj9",
+    "summary": "TypeScript utility types are predefined functions that allow the transformation of existing types, simplifying the code and making it easier to maintain. This guide covers essential utility types like Partial, Required, Readonly, Pick, Omit, and more, with real-world examples demonstrating how to update user profiles, manage configurations, and filter data securely. Combining these utility types can yield powerful results, enhancing flexibility and security in applications. It's crucial to use these types wisely to maintain code clarity and avoid performance issues.",
+    "publishedAt": "2024-11-26T10:49:27.000Z",
+    "source": {
+      "id": "syncfusion",
+      "name": "Syncfusion",
+      "handle": "syncfusion",
+      "image": "https://media.daily.dev/image/upload/t_logo,f_auto/v1/logos/064efc4834bd43b987bcda02e8ad6709"
+    },
+    "tags": [
+      "webdev",
+      "typescript"
+    ],
+    "readTime": 10,
+    "numUpvotes": 218,
+    "numComments": 6,
+    "author": {
+      "name": "Suresh Mohan",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GiORQm3okwNI9Z01tYDa4YELb6j3F-hP-fbPVbSves=s100"
+    },
+    "commentsPermalink": "https://app.daily.dev/posts/typescript-utility-types-a-complete-guide-jasyqjjbf",
+    "wing": "The Career & Craft Room",
+    "wingSlug": "the-career-craft-room",
+    "curatorNote": "Types as documentation, types as guardrails. This exhibit explores the space between freedom and safety."
+  }
+]
